@@ -1,0 +1,3933 @@
+# =========================================================================================
+# Battle Quotes
+# =========================================================================================
+
+# Plot Armor
+
+message_1000:
+  text: >
+    오모리는 굴하지 않았다.
+
+
+message_1001:
+  text: >
+    오모리는 굴하지 않을 것이다.
+
+
+message_1002:
+  text: >
+    정신을 잃었다...
+
+
+# ============Enemy:
+
+# COMMENT
+
+message_1:
+  text: >
+    우주 전 남자친구는 이보다 행복해질 수 없다!
+
+# COMMENT
+
+message_2:
+  text: >
+
+# GETTING WEAKER (25%)
+
+message_3:
+  text: >
+
+# AFTER DEFEAT
+
+message_4:
+  text: >
+
+# AFTER VICTORY
+
+message_5:
+  text: >
+
+
+# ============Enemy:  KITE KID
+
+# Before Kid's Kite "FLY- Part 2"
+
+message_10:
+  text: >
+    \>연 날리는 아이: \<나와 내 연의 진정한 힘을 보여주지!
+
+
+# Before Kid's Kite "Repair"
+
+message_11:
+  text: >
+    \>연 날리는 아이: \<우릴 이길 수 있을 것 같아?
+
+
+message_12:
+  text: >
+    \>연 날리는 아이: \<어림도 없지!
+
+
+# GETTING WEAKER (25%)
+
+message_13:
+  text: >
+    \>연 날리는 아이: \<안 돼... 이럴 리 없는데...
+
+
+message_14:
+  text: >
+    \>연 날리는 아이: \<바람이...\!<br>약해지고 있어!
+
+
+
+# AFTER DEFEAT
+
+message_15:
+  text: >
+    \>연 날리는 아이: \<하지만 나랑 내 연은 깨어지지 않는 우정으로 이어져 있는데...
+
+
+message_16:
+  text: >
+    \>연 날리는 아이: \<우리가 왜 진 거지?
+
+
+
+# AFTER VICTORY
+
+message_17:
+  text: >
+    \>연 날리는 아이: \<하하! 바람이 예상했던 대로야!\! 나와 내 연은 천하무적이라고.
+
+
+
+# ============Enemy:  PLUTO
+
+# Before Strong Attack
+
+#message_18:
+#   text: >
+#    \>PLUTO: \<\<<br>\sinv[2]WOEWO\{EWEOWEOWEOW!!!
+
+# Getting Weaker
+
+message_19:
+  text: >
+    \>???: \<\<<br>\sinv[2]으하하\{하하하\{하하!!!
+
+
+message_20:
+  text: >
+    \>???: \<\<<br>정말 훌륭하구나!
+
+
+# After Defeat
+
+message_21:
+  text: >
+    \>???: \<\<흠...\!<br>잘 싸웠다, 얘들아.
+
+
+message_22:
+  text: >
+    \>???: \<\<하지만...\! 헉...\! 헉...\!<br>이렇게 쉽게 지지는 않겠다...
+
+
+# After Victory
+
+message_23:
+  text: >
+    \>???: \<\<흠...\!<br>잘 싸웠다, 얘들아...\! 하지만 훈련이 부족하군.
+
+
+
+
+# ============Enemy:  Space Ex-Boyfriend
+
+# Getting Weaker (50%, Before Enraged):
+
+message_25:
+  text: >
+    \>우주 전 남자친구: \<<br>크윽!\! 어떻게 아직도 움직일 수 있는 거냐!?
+
+
+message_26:
+  text: >
+    \>우주 전 남자친구: \<<br>난...\! 난 너희들에게 지지 않아!
+
+
+# Before ‘Bullet Hell' (25%):
+
+message_27:
+  text: >
+    \>우주 전 남자친구: \<<br>저리 비켜라, 지구의 버러지들아!
+
+
+message_28:
+  text: >
+    \>우주 전 남자친구: \<<br>이게 마지막 기회다!
+
+
+# After Defeat:
+
+message_29:
+  text: >
+    \>우주 전 남자친구: \<<br>으윽...\! 내 심장이...
+
+
+message_30:
+  text: >
+    \>우주 전 남자친구: \<<br>심장이...\! 아파...
+
+
+# After Victory:
+
+message_31:
+  text: >
+    \>우주 전 남자친구: \<<br>내게 도전하는 건 어리석은 결정이었어.
+
+
+message_32:
+  text: >
+    \>우주 전 남자친구: \<<br>너흰 지구의 버러지들일 뿐이야!
+
+
+# ============Enemy: SPROUT MOLE EATER
+
+# Before ‘Ram':
+
+message_33:
+  text: >
+    \>대왕 지네: \<<br>\quake[1]\}사사사사사삭...
+
+
+# Getting Weaker:
+
+message_34:
+  text: >
+    \>대왕 지네: \<<br>\quake[1]\}스스스스스스스스...
+
+
+# After Victory:
+
+message_35:
+  text: >
+    \>대왕 지네: \<<br>\quake[1]\}사사사사사사사삭!
+
+
+# ============Enemy:  Bandito Mole
+
+# Before ‘B.E.D.':
+
+message_36:
+  text: >
+    X
+
+
+# Before ‘Dynamite':
+
+message_37:
+  text: >
+    X
+
+
+# Getting Weaker:
+
+message_38:
+  text: >
+    X
+
+
+# After Defeat
+
+message_39:
+  text: >
+    X
+
+
+# After Victory
+
+message_40:
+  text: >
+    X
+
+
+# ============Enemy:  Sir Maximus 1
+
+# Before Strong Attack:
+
+message_41:
+  text: >
+    \>막시무스 경: \<잘 봐라! 우리 가문은 여러 세대에 걸쳐 이 기술을 갈고닦았지...
+
+
+message_42:
+  text: >
+    \>막시무스 경: \<<br>이게 내 필살기다!
+
+
+message_43:
+  text: >
+    \sinv[1]이아아\{아아\{아아아압!!
+
+
+# Getting Weaker
+
+message_44:
+  text: >
+    \>막시무스 경: \<안 돼... \! 여기서...\!<br>여기서 무릎 꿇을 수는 없다.
+
+
+message_45:
+  text: >
+    \>막시무스 경: \<내 아들에겐 내가 필요해!
+
+
+# After Defeat
+
+message_46:
+  text: >
+    \>막시무스 경: \<안 돼...\! 이렇게 끝날 수는 없다.
+
+
+message_47:
+  text: >
+    \>막시무스 경: \<내 아들...\! 내 아들이 복수할 것이다...
+
+
+message_48:
+  text: >
+    \>막시무스 경: \<이 값을 치르게 될 것이다!
+
+
+# After Victory
+
+message_49:
+  text: >
+    \>막시무스 경: \<우리 가문의 기술은 여러 세대를 거치며 한 번도 패배하지 않았다!
+
+
+message_50:
+  text: >
+    \>막시무스 경: \<내게 도전하다니 어리석구나!
+
+
+# ============Enemy:  Sir Maximus 2
+
+# Before Strong Attack:
+
+message_51:
+  text: >
+    \>막시무스 경 2세: \<내 선조들의 힘을 봐라!
+
+
+message_52:
+  text: >
+    \>막시무스 경 2세: \<아버님께서 곁에 서 계시는 게 느껴지는구나!
+
+
+message_53:
+  text: >
+    \>막시무스 경 2세: \<<br>이게 우리들의 필살기다!
+
+
+message_54:
+  text: >
+    \sinv[1]이아아\{아아\{아아아압!!
+
+
+# Getting Weaker
+
+message_55:
+  text: >-
+    \>막시무스 경 2세: \<안 돼... 아버님의 죽음을 <br>헛되이 할 수는 없다!
+
+message_56:
+  text: >
+    \>막시무스 경 2세: \<아버지...<br>용서해주십시오.
+
+
+message_57:
+  text: >
+    \>막시무스 경 2세: \<죄송합니다...\!<br>기대에 부응하지 못했습니다.
+
+
+# After Victory
+
+message_58:
+  text: >
+    \>막시무스 경 2세: \<아아, 아버님의 복수를 완수했도다!
+
+
+message_59:
+  text: >
+    \>막시무스 경 2세: \<우리 가문에 있어 영광스러운 날이구나!
+
+
+# ============Enemy:  Sir Maximus 3
+
+# Before Strong Attack
+
+message_60:
+  text: >
+    \>막시무스 경 3세: \<잘 봐라! 이것이 내 선조들의 힘이다!
+
+
+message_61:
+  text: >
+    \>막시무스 경 3세: \<아버님과 할아버님이 내 곁에서 함께하신다! 이게 우리들의 필살기다!
+
+
+message_62:
+  text: >
+    \sinv[1]이아아\{아아\{아아아압!!
+
+
+# Getting Weaker
+
+message_63:
+  text: >-
+    \>막시무스 경 3세: \<안 돼... 아버님과 할아버님의 <br>죽음을 헛되이 할 수는 없다!
+
+message_64:
+  text: >
+    \>막시무스 경 3세: \<아버님... 할아버님...
+
+
+message_65:
+  text: >
+    \>막시무스 경 3세: \<죄송합니다...\!<br>기대에 부응하지 못했습니다.
+
+
+# After Victory
+
+message_66:
+  text: >
+    \>막시무스 경 3세: \<아아, 우리 가문의 복수를 완수했도다!
+
+
+message_67:
+  text: >
+    \>막시무스 경 3세: \<우리 가문에 있어 영광스러운 날이구나!
+
+
+# ============Enemy:  Sweetheart
+
+# Before Strong Attack (Before Ecstatic):
+
+message_68:
+  text: >
+    \sinv[1]\{우후\{후후후후후후후!!\}
+
+
+# Getting Weaker (75%)
+
+message_69:
+  text: >
+    \>스위트하트: \<감히 내게 주먹을 들이밀어!?
+
+
+message_70:
+  text: >-
+    \>스위트하트: \<어리석은 녀석들!\! <br>무릎 꿇고 빌빌거려도 모자랄 판에!
+
+message_71:
+  text: >-
+    \>스위트하트: \<우후후!\! 내 미모와 우아함은 무한하고 <br>영원하지...
+
+message_72:
+  text: >
+    \>스위트하트: \<너희는 머지 않아 영영 못 보게 되겠지만 말이야!
+
+
+# Getting Weaker (20%, Manic):
+
+message_75:
+  text: >
+    \>스위트하트: \<흥! 아직도 쓰러지지 않았다니.
+
+
+message_76:
+  text: >
+    \>스위트하트: \<뭐, 바퀴벌레들이 끈질기긴 하지!
+
+
+message_77:
+  text: >
+    \sinv[1]\{우후\{후후후후후후후!!\}
+
+
+# Before Strong Attack (Manic):
+# Use 3 times
+
+message_78:
+  text: >
+    \sinv[1]\{우후\{후후후후후후후!!\}
+
+
+# After Defeat
+
+message_79:
+  text: >
+    \>스위트하트: \<안 돼...\! 이게...\!<br>패배라는 건가?
+
+
+message_80:
+  text: >
+    \>스위트하트: \<<br>난 인정 못해...\!<br>인정 안 할 거야!
+
+
+message_81:
+  text: >
+    \>스위트하트: \<<br>너희는 전부 하찮은 평민에 불과해!
+
+
+# After Victory
+
+message_82:
+  text: >
+    \sinv[1]\{우후\{후후후후후후후!!\}
+
+
+message_83:
+  text: >-
+    \>스위트하트: \<식은 죽 먹기네!\! <br>너희는 전부 하찮은 평민에 불과해!
+
+message_112:
+  text: >
+    \>스위트하트: \<<br>너흰 전부 \c[11]지하감옥\c[0] 행이야!
+
+
+
+
+# ============Enemy:  Reverse Mermaid
+
+# Before Strong Attack:
+
+message_84:
+  text: >
+    \>거꾸로 된 인어: \<나온다 고통으로부터 힘은.
+
+
+# Getting Weaker:
+
+message_85:
+  text: >
+    \>거꾸로 된 인어: \<것이다 포기하는 약점은 큰 가장 우리들의.
+
+
+# After Defeat:
+
+message_86:
+  text: >
+    \>거꾸로 된 인어: \<일부다 아니라 반대가 삶의 죽음은.
+
+
+# After Victory:
+
+message_87:
+  text: >
+    \>거꾸로 된 인어: \<법이지 있는 수 이길 알아야 법을 패배하는.
+
+
+# ============Enemy:  Mr. Jawsome
+
+# Intro
+
+message_88:
+  text: >
+    \>죠썸 씨: \<아그들아...\! 꼬마 손님들한테 나가는 길 보여드려라.
+
+
+
+# Before ‘Summon Henchmen':
+
+message_89:
+  text: >
+    \>죠썸 씨: \<인원을 더 보내! 알겠어!?
+
+
+message_90:
+  text: >
+    \>죠썸 씨: \<지금 \quake[1]당장!
+
+
+# Before ‘Give Orders':
+
+message_91:
+  text: >
+    \>죠썸 씨: \<저 꼬맹이들 치워버리라고! 알아들었어!?
+
+
+message_92:
+  text: >
+    \>죠썸 씨: \<저 녀석들을 쫓아내는 악어에게는 피자를 주겠다...\!<br>\quake[1]공짜로 말이야!
+
+
+# Getting Weaker:
+
+message_93:
+  text: >
+    \>죠썸 씨: \<똘마니가 부족하다니 그게 무슨 말이야!?\! <br>그럴 리 없어!
+
+
+# After Defeat:
+
+message_94:
+  text: >
+    \>죠썸 씨: \<웬 꼬맹이들한테 당했다고!?
+
+
+message_95:
+  text: >
+    \>죠썸 씨: \<그러라고 돈 주는 줄 알아!?
+
+
+# After Victory:
+
+message_96:
+  text: >
+    \sinv[2]\{죠하\{하\{하!!!
+
+
+message_97:
+  text: >
+    \>죠썸 씨: \<이 죠썸 씨한테 까불면 그렇게 되는 거다!
+
+
+# ============Enemy:  PLUTO EXPANDED
+
+# Intro
+
+message_98:
+  text: >
+    \>명왕성: \<잘 봐라...\!<br>이게 내 최종 형태다.
+
+
+message_99:
+  text: >
+    \>명왕성: \<이 열기가...\! 느껴지느냐?
+
+
+# Before Strong Attack:
+
+message_100:
+  text: >
+    \>명왕성: \<\<흠...\!
+
+
+# Getting Weaker 50%):
+
+message_101:
+  text: >
+    \>명왕성: \<\<...\! 아.\! 그렇군.
+
+
+message_102:
+  text: >
+    \>명왕성: \<\<너희 모두 더 강해졌구나.
+
+
+message_103:
+  text: >
+    \>명왕성: \<\<하지만...\! 나도 마찬가지다.
+
+
+# After Defeat:
+
+message_104:
+  text: >
+    \>명왕성: \<\<흠.\! 잘했다, 얘들아.\!<br>많이 발전했구나.
+
+
+message_105:
+  text: >
+    \>명왕성: \<\<하지만...\!<br>난 아직 끝난 게 아니야.
+
+
+# After Victory
+
+message_106:
+  text: >
+    \>명왕성: \<\<미안하구나, 얘들아.
+
+
+message_107:
+  text: >
+    \>명왕성: \<\<그래도 너희들의 노력은 찬사를 받아 마땅하다.
+
+
+# ============Enemy:  Abbi
+
+# Before Strong Attack:
+
+message_108:
+  text: >
+    X
+
+
+# Getting Weaker:
+
+message_109:
+  text: >
+    \>애비: \<\fn<OMORI_GAME>\quake[1]윽...
+
+
+# After Defeat:
+
+message_110:
+  text: >
+    \>애비: \<\fn<OMORI_GAME>\quake[1]제발...\! 애비 죽이지 마...
+
+
+# After Victory:
+
+message_111:
+  text: >
+    \>애비: \<\fn<OMORI_GAME>\quake[1]안녕...
+
+
+# ============Enemy:  Slime Girls
+
+# Before Strong Attack:
+
+
+
+message_113:
+  text: >
+    X
+
+
+# Getting Weaker (75%):
+
+message_114:
+  text: >
+    \>메두사: \<흥...\! 너희 꼬맹이들은 내가 생각했던 것보다 끈질기네.
+
+
+message_115:
+  text: >
+    \>마리나: \<그러면 어떻게 해야겠어?\! 진지하게 대해줘야지!
+
+
+message_116:
+  text: >
+    \>몰리: \<아...<br>너무 재밌어~!
+
+
+# Medusa's Special Move (50%):
+
+message_117:
+  text: >
+    \>마리나: \<야, 메두사!<br>지금 너도 그 생각하고 있어?
+
+
+message_118:
+  text: >
+    \>메두사: \<응, 언니...\! 이제 다른 걸 해봐야겠네.
+
+
+message_119:
+  text: >
+    \>몰리: \<긴장하지 마, 얘들아...\!<br>하나도 안 아플 거야~
+
+
+# After Defeat:
+
+message_120:
+  text: >
+    \>마리나: \<이 꼬맹이들... 겉으로 보이는 것보다 훨씬 세잖아.
+
+
+message_121:
+  text: >
+    \>몰리: \<흠...\! 예상보다 문제가 훨씬 더 커졌어.
+
+
+message_122:
+  text: >
+    \>메두사: \<휴...\! 큰일이네...\! 이제 험프리한테 먹이를 어떻게 주지?
+
+
+# After Victory:
+
+message_123:
+  text: >
+    \>마리나: \<이제 너흰 우리 거야!
+
+
+message_124:
+  text: >
+    \>몰리: \<쉿, 얘들아...<br>울지 마...\! 곧 새로운 삶에 적응하게 될 거야~
+
+
+message_125:
+  text: >
+    \>메두사: \<이제 작은 녀석을 분리할 시간이야.\! 자, 시작하자.
+
+
+# ============Enemy:  Roboheart
+
+# Getting Weaker
+
+message_126:
+  text: >
+    \>로보하트: \<TXkgbGlmZSBpcyBzdWZmZXJpbmch
+
+
+# Getting Weaker
+
+message_127:
+  text: >
+    \>로보하트: \<SGVscC4uLiBtZS4uLgo=
+
+
+# After Defeat
+
+message_128:
+  text: >
+    \>로보하트: \<<br>V2h5Pw==
+
+
+# After Victory
+
+message_129:
+  text: >
+    \>로보하트: \<Tm8sIEkgZGlkbid0IG1lYW4gdG8h
+
+
+# ============Enemy:  Mutantheart
+
+# Before Strong Attack:
+
+message_130:
+  text: >
+    \>뮤턴트하트: \<\}\sinv[1]으에...?
+
+
+# Getting Weaker:
+
+message_131:
+  text: >
+    \>뮤턴트하트: \<\}\sinv[1]으어...?
+
+
+# After Defeat:
+
+message_132:
+  text: >
+    \>뮤턴트하트: \<\}\sinv[1]우어어어...
+
+
+# After Victory:
+
+message_133:
+  text: >
+    \>뮤턴트하트: \<\sinv[1]으에!
+
+
+# ============Enemy:  Perfectheart
+
+# Intro
+
+message_134:
+  text: >
+    \>퍼펙트하트: \<<br>잊지 마렴, 얘들아...\! 다 너희가 자초한 일이야!
+
+
+# Getting Weaker (50%):
+
+message_135:
+  text: >
+    \>퍼펙트하트: \<아...\! 너희들 꽤 강하구나.
+
+
+message_136:
+  text: >
+    \>퍼펙트하트: \<좀 더 열심히 해야겠네.
+
+
+# Getting Weaker (25%):
+
+message_137:
+  text: >
+    \>퍼펙트하트: \<흠?\! 이, 이게 뭐지?\! 땀방울이라고?
+
+
+message_138:
+  text: >
+    \>퍼펙트하트: \<이런, 이런...\! 정말 놀랍네.
+
+
+# After Defeat:
+
+message_139:
+  text: >
+    \>퍼펙트하트: \<아.\! 너희가 이겼어.
+
+
+message_140:
+  text: >
+    \>퍼펙트하트: \<좋아, 그럼.\! 난 패배를 인정할 줄 알아.
+
+
+# After Victory:
+
+message_141:
+  text: >
+    \>퍼펙트하트: \<후회하게 될 거라고 말했잖아, 얘들아.
+
+
+message_142:
+  text: >
+    \>퍼펙트하트: \<또 이런 짓 하게 만들지 마.
+
+
+# ============Enemy:  Hush Puppy
+
+# Before ‘Muffled Scream':
+
+message_143:
+  text: >
+    \>허쉬 퍼피: \<<br>\}\quake[1]쉿...\! 조용히 해봐. 아주 조용히....
+
+
+# After Defeat
+
+message_144:
+  text: >
+    \>허쉬 퍼피: \<<br>\}\quake[1]쉬이이이이이잇...
+
+
+# ============Enemy:  NEFARIOUS Chip
+
+# Before ‘Cookie Hell':
+
+message_145:
+  text: >
+    \sinv[1]\{그리고... 프레스토!!!\}\sinv[0]<br>오븐에서 갓 구운 쿠키!
+
+
+# Getting Weaker:
+
+message_146:
+  text: >
+    \>극악무도한 칩: \<맘마미아...
+
+
+message_147:
+  text: >
+    \>극악무도한 칩: \<...\! 여기...\!<br>여기 좀 더워지는 것 같지 않아?
+
+
+# After Defeat:
+
+message_148:
+  text: >
+    \>극악무도한 칩: \<몰토 트리스테...
+
+
+# After Victory:
+
+message_149:
+  text: >
+    \sinv[1]\{\{야후우! 와하!!\}\}
+
+
+# ============Enemy:  Biscuit & Doughie
+
+# Getting Weaker (75%):
+
+message_150:
+  text: >
+    \>도이: \<우린 영원히 빵이나 구울 운명인가 봐...\! 안 그래, 비스킷?
+
+
+message_151:
+  text: >
+    \><비스킷>\<\sinv[1]오호오오...
+
+
+# Getting Weaker (50%, Depressed):
+
+message_152:
+  text: >
+    \>도이: \<재료가 떨어지고 있어! 이제 어쩌지, 비스킷!?
+
+
+message_153:
+  text: >
+    \><비스킷>\<\sinv[1]오호오오오오오!
+
+
+# Getting Weaker (25%, Miserable):
+
+message_154:
+  text: >
+    \>도이: \<이제 전부 바닥나려고 해!\! 남은 게 거의 없어...
+
+
+message_155:
+  text: >
+    \><비스킷>\<\sinv[1]오호오오...
+
+
+# After Defeat:
+
+message_156:
+  text: >
+    \>도이: \<자원이 바닥났어...\! 이제 재료도 없는데 어떻게 하지?
+
+
+message_157:
+  text: >
+    \><비스킷>\<\sinv[1]오호오오오오...
+
+
+# After Victory:
+
+message_158:
+  text: >
+    \>도이: \<비스킷! 이건 기적이야!\!<br>신들께서 우릴 구해주셨어!
+
+
+message_159:
+  text: >
+    \><비스킷>\<\sinv[1]오호오오오오!
+
+
+message_160:
+  text: >
+    \><도이>: \<그럼 다시 빵 만들어야겠네...\sinv[1]신선한 빵...\! 신선한 빵...\! 신선한 빵...\sinv[0]
+
+
+message_161:
+  text: >
+    \><비스킷>\<\sinv[1]오호오오...
+
+
+# ============Enemy:  Space Ex-Husband
+
+# Before ‘Calm Down':
+
+message_162:
+  text: >
+    \>우주 전 남편: \<아무것도 안 느껴진다...\! 차가워...\! 마치 얼음장처럼...
+
+
+# Getting Weaker (25%):
+
+message_163:
+  text: >
+    \>우주 전 남편: \<<br>
+
+
+# After Defeat:
+
+message_164:
+  text: >
+    \>우주 전 남편: \<<br>고통이...\! 느껴진다...
+
+
+# After Victory:
+
+message_165:
+  text: >
+    \>우주 전 남편: \<<br>아무것도 안 느껴져...\!<br>차가워...\! 마치 얼음장처럼...
+
+
+# ============Enemy:  Aubrey (Fake Fight):
+
+# After Attack (Knife):
+
+message_166:
+  text: >
+    \>오브리: \<\quake[1]으윽!\quake[0]\! 뭐야...
+
+
+message_167:
+  text: >
+    \>오브리: \<그...\! 그거 칼이야!?
+
+
+# ============Enemy:  Charlie
+
+# If Angel gets knocked out:
+
+message_168:
+  text: >
+    \>찰리: \<...
+
+
+# ============Enemy:  Angel
+
+# Before ‘Quick Attack':
+
+message_169:
+  text: >
+    \>엔젤: \<이건 얼마 전에 스승님께 배운 기술이야...<br>\!너희 둘은 이제 끝장이야!
+
+
+message_170:
+  text: >
+    \sinv[1]\{이야아\{아아\{아압!!!
+
+
+# Getting Weaker:
+
+message_171:
+  text: >
+    \>엔젤: \<흥. 의외인데, 켈!
+
+
+message_172:
+  text: >
+    \>엔젤: \<내 스승님께 걸맞은 적수가 되겠어!
+
+
+# After Defeat:
+
+message_173:
+  text: >
+    \>엔젤: \<훌쩍..\! 이...\!<br>이 빚은 꼭 갚아주마...
+
+
+# After Victory:
+
+message_174:
+  text: >
+    \sinv[2]\{켈켈\{켈켈!!!
+
+
+message_175:
+  text: >
+    \>엔젤: \<스승님의 가르침 덕분이야!
+
+
+# ============Enemy:  The Maverick
+
+# Before ‘Charm':
+
+message_176:
+  text: >
+    \>이단아: \<아, 켈. 이 한심한 머저리 녀석...\! 이 몸을 상대로 네게 승산 따위는 없다!
+
+
+# Getting Weaker (75%):
+
+message_177:
+  text: >
+    \>이단아: \<흥...\! 꽤 하는군...
+
+
+message_178:
+  text: >
+    \>이단아: \<하지만 싸움은 이제부터다!
+
+
+# Getting Weaker (60%):
+
+message_179:
+  text: >
+    \>이단아: \<흥, 내 라이벌답군!
+
+
+message_180:
+  text: >
+    \>이단아: \<하지만 이건 알아둬라...\! 네가 스포츠나 하면서 허송세월을 보내는 동안...
+
+
+message_181:
+  text: >
+    \>이단아: \<나는 오직 이 순간만을 위해 기술을 갈고 닦았다.
+
+
+message_182:
+  text: >
+    \>이단아: \<넌 절대 내 경지에 다다르지 못해!
+
+
+message_183:
+  text: >
+    \>이단아: \<<br>넌 이제 끝이다, 켈!
+
+
+# Getting Weaker (50%):
+
+message_184:
+  text: >
+    \>이단아: \<흥! 그게 전부냐!?
+
+
+message_185:
+  text: >
+    \>이단아: \<난 아직 내 힘의 10%만 사용했다!
+
+
+message_186:
+  text: >
+    \>이단아: \<<br>보아라...\! 내 최종 형태를!
+
+
+# Getting Weaker (40%):
+
+message_187:
+  text: >
+    \>이단아: \<지금 네 결정을 후회하고 있겠지!
+
+
+message_188:
+  text: >
+    \>이단아: \<난 네게 패배하기에는 너무 쿨해...
+
+
+message_189:
+  text: >
+    \>이단아: \<넌 패배자에 불과해!
+
+
+# Getting Weaker (30%):
+
+message_190:
+  text: >
+    \>이단아: \<이제 곧... \!헉헉...\! 제풀에 지쳐 나가떨어지게 될 거다!
+
+
+message_191:
+  text: >
+    \>이단아: \<내 승리가 코앞이다!
+
+
+# Getting Weaker (20%):
+
+message_192:
+  text: >
+    \>이단아: \<헉헉...\! 인정해야겠군...\! 솔직히 놀랐다...\! 하지만 날 이기려면 아직 한참 멀었어!
+
+
+# Getting Weaker (10%):
+
+message_193:
+  text: >
+    \>이단아: \<\quake[1]헉...\! 헉...
+
+
+message_194:
+  text: >
+    \>이단아: \<안 돼...\!<br>이럴 리 없어!\! 불가능하다고!
+
+
+message_195:
+  text: >
+    \>이단아: \<\quake[1]<br>절대 있을 수 없는 일이야!
+
+
+# After Defeat:
+
+message_196:
+  text: >
+    \>이단아: \<\quake[1]헉...\! 헉...\! 헉...\! 허억...
+
+
+message_197:
+  text: >
+    \>이단아: \<\quake[1]헉...\! 헉...\! 허억...
+
+
+message_198:
+  text: >
+    \>이단아: \<크윽...\! 안 돼...\!<br>이렇게 끝낼 수는 없어!
+
+
+# After Victory:
+
+message_199:
+  text: >
+    \>이단아: \<잠깐...\! 내가 이겼다고?\!<br>아니, 그러니까...
+
+
+message_200:
+  text: >
+    \>이단아: \<예상했던 대로다! 하하!\!<br>이 이단아 님을 두려워해라!
+
+
+# ============Enemy:  Kim
+
+# Before ‘Big Punch':
+
+message_201:
+  text: >
+    \>킴: \<네 얼굴 짜증 나!
+
+
+# Getting Weaker:
+
+message_202:
+  text: >
+    \>킴: \<큰 게 다가 아니라는 걸 보여줄게!\! 너희 같은 찌질이들한테 질 수는 없지!
+
+
+# After Defeat:
+
+message_203:
+  text: >
+    \>킴: \<투덜투덜...\!<br>그래도... 너흰 찌질이들이야...
+
+
+# After Victory:
+
+message_204:
+  text: >
+    \>킴: \<흥... 처음부터 너희한테 승산은 없었어.
+
+
+# ============Enemy:  Vance
+
+# Before ‘Candy Throw':
+
+message_205:
+  text: >
+    \>밴스: \<<br>수십 년 묵은 사탕 맛 좀 봐라!
+
+
+# Getting Weaker:
+
+message_206:
+  text: >
+    \>밴스: \<아야...\! 아파.
+
+
+# After Defeat:
+
+message_207:
+  text: >
+    \>밴스: \<젠장...\! 난 그냥 태피를 먹고 싶었을 뿐인데.
+
+
+# After Victory:
+
+message_208:
+  text: >
+    \>밴스: \<그러면... 어...\! 이제 그 태피 가져가도 될까?
+
+
+# ============Enemy:  Aubrey (Church):
+
+# Before ‘Power Hit':
+
+message_209:
+  text: >
+    \>오브리: \<<br>켈...\! \n[8]...\!<br>이미 늦었어!
+
+
+message_210:
+  text: >
+    \>오브리: \<<br>이제 나한테 너희 둘은 아무것도 아니야!
+
+
+# Getting Weaker (25%):
+
+message_211:
+  text: >
+    \>오브리: \<<br>여긴 왜 온 거야?
+
+
+message_212:
+  text: >
+    \>오브리: \<<br>왜...\! 왜 이제 와서?
+
+
+# After Defeat:
+
+message_213:
+  text: >
+    \>오브리: \<<br>으윽...
+
+
+message_214:
+  text: >
+    \>오브리: \<<br>됐어...\!<br>너희한테 시간 낭비하고 싶지 않아.
+
+
+# After Victory:
+
+message_215:
+  text: >
+    \>오브리: \<<br>흥.
+
+
+message_216:
+  text: >
+    \>오브리: \<<br>꼴 좋네, 켈.
+
+
+message_217:
+  text: >
+    \>오브리: \<<br>이제...\! 귀찮게 하지 마.
+
+
+# ============Enemy:  Aubrey & Scooter Squad (Lake):
+
+# Getting Weaker (75%):
+
+message_218:
+  text: >
+    \>엔젤: \<스승님과 나는 이 순간을 위해 수련해왔어...
+
+
+message_219:
+  text: >
+    \>이단아: \<다시는 우리를 바보 취급하지 못할 거다!
+
+
+message_220:
+  text: >
+    \>밴스: \<킴... 한바탕 날뛸 준비 됐어?
+
+
+message_221:
+  text: >
+    \>킴: \<당연하지, 밴스!\! 이 찌질이들이 자초한 일이야!
+
+
+# Getting Weaker (50%):
+
+message_222:
+  text: >
+    \>이단아: \<훈련을 기억해라, 엔젤! 약점을 네 강점으로 삼는 거다!
+
+
+message_223:
+  text: >
+    \>엔젤: \<네, 스승님!<br>실망시키지 않겠습니다!
+
+
+# Getting Weaker (25%):
+
+message_224:
+  text: >
+    \>밴스: \<킴... 괜찮아?
+
+
+message_225:
+  text: >
+    \>킴: \<헉...\! 헉...\! 흥!\! 걱정하지 마, 오빠... 난 아직 싸울 수 있어!
+
+
+# Before ‘Hooligan Strong Energy':
+
+message_226:
+  text: >
+    \{\sinv[2]이거나 먹어라, 찐따들아!!!
+
+
+# After Defeat:
+
+message_227:
+  text: >
+    \>이단아: \<헉...\! 헉...\!<br>이...\! 이게 현실이란 건가?
+
+
+message_228:
+  text: >
+    \>엔젤: \<어떻게...\! 어떻게 이런 일이!?
+
+
+message_229:
+  text: >
+    \>킴: \<우리가 지다니 믿을 수 없어...
+
+
+message_230:
+  text: >
+    \>밴스: \<킴... 배고파. \!<br>이제 가면 안 될까?
+
+
+message_231:
+  text: >
+    \>오브리: \<... ... ...
+
+
+# After Victory:
+
+message_232:
+  text: >
+    \>이단아: \<헉...\! 헉...\!<br>이...\! 이게 현실이란 건가?
+
+
+
+message_233:
+  text: >
+    \>엔젤: \<우리가 이겼어요, 스승님! 우리 승리예요!
+
+
+message_234:
+  text: >
+    \>킴: \<꼴 좋다, 찐따 녀석들.
+
+
+message_236:
+  text: >
+    \>밴스: \<킴... 배고파... 뭐 좀 먹으러 가자.
+
+
+message_237:
+  text: >
+    \>오브리: \<...\! 흥.
+
+
+message_238:
+  text: >
+    \>오브리: \<켈...\! \n[8]...\!<br>꺼져 버려.
+
+
+
+# ============Enemy:  Basil
+
+message_239:
+  text: >
+    \>바질: \fn<OMORI_GAME>\n[8]...
+
+
+message_240:
+  text: >
+    \>바질\<\fn<OMORI_GAME><br>정말 빠져나갈 방법은 없는 거겠지?
+
+
+message_244:
+  text: >
+    \>바질: \<\fn<OMORI_GAME><br>말해봐, \n[8]...
+
+
+message_245:
+  text: >
+    \>바질: \<\fn<OMORI_GAME><br>내가 이러는 게 이기적인 거야?
+
+
+message_249:
+  text: >
+    \>바질: \<\fn<OMORI_GAME><br>내가 미워?
+
+
+message_250:
+  text: >
+    \>바질: \<\fn<OMORI_GAME><br>\n[8]...
+
+
+message_251:
+  text: >
+    \>바질: \<\fn<OMORI_GAME><br>제발...\! 그만해...
+
+
+message_252:
+  text: >
+    \>바질: \<\fn<OMORI_GAME><br>\quake[1]어째서!?\! 왜 멈추지 않는 거야!?
+
+
+message_254:
+  text: >
+    \>바질: \<\fn<OMORI_GAME><br>발버둥 치는 건 그만둬,<br>\n[8].
+
+
+message_255:
+  text: >
+    \>바질: \<\fn<OMORI_GAME><br>난...\! 난 너무 지쳤어...
+
+
+# ============Enemy:  The Recyclepath
+
+# Before ‘Summoning':
+
+message_256:
+  text: >
+    \>재활용 전도사: \<<br>형제들이여! 단결하라!<br>신성한 쓰레기통께서 우리를 부르신다!
+
+
+# Before ‘Throw Trash':
+
+message_257:
+  text: >
+    \>재활용 전도사: \<<br>썩 사라지거라, 비재활용자!
+
+
+message_258:
+  text: >
+    \>재활용 전도사: \<<br>고무 장갑의 힘이 너를 몰아내리라!
+
+
+# Getting Weaker:
+
+message_259:
+  text: >
+    \>재활용 전도사: \<<br>오, 하늘에 계신 신성한 쓰레기통이시여...
+
+
+message_260:
+  text: >
+    \>재활용 전도사: \<<br>주님의 적들을 재활용할 힘을 내려주소서!
+
+
+# After Defeat:
+
+message_261:
+  text: >
+    \>재활용 전도사: \<<br>오, 신성한 쓰레기통이시여!
+
+
+message_262:
+  text: >
+    \>재활용 전도사: \<<br>어찌하여 저희를 버리셨나이까!?
+
+
+# After Victory:
+
+message_263:
+  text: >
+    \>재활용 전도사: \<<br>기뻐하라! 승리의 축복을 내리셨도다!
+
+
+message_264:
+  text: >
+    \>재활용 전도사: \<<br>하늘에 계신 신성한 쓰레기통님을 경배하라!
+
+
+# ============Enemy:  Extras
+
+# Space Ex-Boyfriend Return to ANGRY
+
+message_265:
+  text: >
+    \>우주 전 남자친구: \<<br>내 분노는 가둘 수 없다...<br>날 달랠 수는 없어!
+
+
+# Sweetheart Return to HAPPY
+message_266:
+  text: >-
+    \>스위트하트: \<쓸모없는 짓이야, 이 멍청이들!\! <br>내 긍정 에너지를 꺾을 수는 없다고!
+
+message_267:
+  text: >-
+    \>도이: \<\sinv[1]<br>신선한 빵...\! 신선한 빵...\! 매일매일 신선한 빵...
+
+message_268:
+  text: >
+    \>비스킷: \<\sinv[1]<br>오호오오오오...
+
+
+# Perfectheart Hitting an emotion weakness
+message_269:
+  text: >
+    \>퍼펙트하트: \<\sinv[1]쯧쯧...\sinv[0]\! 감정을 보이면 예측하기 쉬워질 뿐이야.
+
+
+# Snow Angel Pierce Heart Skill
+message_270:
+  text: >
+    \>눈 천사: \<\quake[1]악타 데오스 눔쿠암 모르탈리아 팔룬트...
+
+
+# Hush Puppy Muffled Scream
+message_271:
+  text: >
+    \>허시 퍼피: \<\quake[1]\}읍...\! 읍읍...\!<br>으읍...\! \quake[1]으으으으읍!!\quake[0]
+
+
+# ============Enemy:  Humphrey
+# Humphrey Swarm Intro
+message_272:
+  text: >
+    \>험프리: \<\sinv[1]<br>포식할 시간이다! 포식할 시간이다!<br>너흰 죽을 시간이다!
+
+
+# Before transforming into a lump
+message_273:
+  text: >
+    \>험프리: \<\sinv[1]최후의 싸움이 시작했다!\| 하지만 우리가 힘을 합치면 너희가 이길 수 있을 것 같아?
+
+
+# Before swallow 1
+message_274:
+  text: >
+    \>험프리: \<\sinv[1]경고 하나 하자면... 곧 냄새가 고약해질 거야!\| 너희 모두 내 뱃속으로 들어올 시간이야!
+
+
+# Before swallow 2
+message_275:
+  text: >
+    \>험프리: \<\sinv[1]얼마나 빠른지, 얼마나 느린지는 상관 없어...\| 더 발버둥 칠수록 더 깊게 삼켜!
+
+
+# Before Swallow 3
+message_276:
+  text: >
+    \>험프리: \<\sinv[1]긴장 풀어... 무서워할 것 없으니까.\| 저기, 오모리... 여기 좀 더워지는 것 같은데, 나만 그런 걸까?
+
+
+# Before Swallow 4
+message_277:
+  text: >
+    \>험프리: \<\sinv[1]고기를 요리하는 건 즐겁지!\| 레어, 미디엄 레어, 미디엄, 웰던... 뭘로 하지?
+
+
+# Before Swallow (Generic 1)
+message_278:
+  text: >
+    \>험프리: \<\sinv[1]발버둥 쳐도 소용 없어. 포기해, 친구.\| 이 순환은 영원히 끝나지 않을 거라구.
+
+
+# Before Swallow (Generic 2)
+message_279:
+  text: >
+    \>험프리: \<\sinv[1]발버둥 칠 필요 없어. 모르는 게 약이지.\| 몇 번이나 더 해야 하는 거지?
+
+
+#Before Humphrey Abort
+message_323:
+  text: >
+    \>험프리: \<\sinv[1]저항하고 싶으면 마음껏 해. 너희가 뭘 하든...\| 절대 내 배에서 탈출하지 못할 거거든!
+
+
+# Uvula Intro
+message_280:
+  text: >
+    \>험프리: \<<br>헤헤! 넌 날 절대 못 이겨, 바보야!
+
+
+#Uvula Shit Talk
+message_281:
+  text: >
+    \>험프리: \<<br>헤헤! 난 최고야!
+
+
+# ============Enemy:  Fears
+
+# ============Enemy:  Fear of Heights
+
+# Getting the \n[8]s attention
+
+message_282:
+  text: >
+    \>???: \<\n[8]...
+
+
+# Encouragement
+
+message_283:
+  text: >
+    \>???: \<심호흡을 해...\!<br>두려워하지 마.\! 네가 생각하는 것만큼 무섭지 않아.
+
+
+# \n[8] gains CALM DOWN
+message_284:
+  text: >-
+    당신은 마음을 가라앉히고... 진정하는 법을 <br>기억해냈다.
+
+message_285:
+  text: >
+    \>???: \<명심해, \n[8]...\! 진정하기만 하면 돼...
+
+
+# ============Enemy:  Fear of Bugs
+
+# Getting the \n[8]'s attention
+message_286:
+  text: >
+    \>???: \<전혀 진전이 없구나... 안 그래, \n[8]?
+
+
+# Encouragement
+message_287:
+  text: >
+    \>???: \<한 번에 많은 일들이 일어난 것 같네...
+
+
+message_288:
+  text: >
+    \>???: \<작은 것들에는 신경을 끄고...\! 뭐가 중요한지 알아내야 해!
+
+
+# \n[8] gains FOCUS
+message_289:
+  text: >
+    당신은 정신을 비우고... 집중하는 법을 배웠다.
+
+
+# CALM DOWN before FOCUS reminder
+message_290:
+  text: >
+    \>???: \<흥분한 상태에서는 집중하기 어렵지.\! 심호흡하는 걸 기억해...
+
+
+# ============Enemy:  Fear of Drowning
+
+# CALM DOWN reminder.
+message_291:
+  text: >
+    \>???: \<심장 박동을 고르게 해...\!<br>두려워하지 마.\! 네가 생각하는 것만큼 무섭지 않아.
+
+
+# Encouragement
+message_292:
+  text: >
+    \>???: \<계속 나아가야 해.\!<br>포기하지 마.\! 아무리 불가능해 보이더라도 말이야...
+
+
+# \n[8] gains PERSIST
+message_293:
+  text: >
+    당신은 목소리를 향해 손을 뻗고... <br>버티는 법을 기억해냈다.
+
+
+# BASIL is struggling
+message_294:
+  text: >
+    바질이 물속에서 허우적거리는 것이 느껴진다...<br>움직일 수가 없다!
+
+
+# BASIL falls unconscious
+message_295:
+  text: >
+    바질이 더 이상 움직이지 않는다.
+
+
+# ============Tutorial SPROUT MOLES
+# ANGRY MOLE
+message_296:
+  text: >
+    \>히로: \<아! 아무래도 저 두더지새싹, 분노한 모양이야! \!두더지새싹에게도 우리처럼 감정이 있어.
+
+
+message_297:
+  text: >-
+    \>히로: \<이 두더지새싹은 분노했기 때문에 <br>공격력이 더 높아.
+
+message_298:
+  text: >
+    \>히로: \<반면 방어력은 낮아지지!
+
+
+
+message_299:
+  text: >-
+    \>오브리: \<그러니까 지금이 공격하기 딱 좋은 기회라는 <br>거네! \!자, 오모리!\! 가자!
+
+message_300:
+  text: >
+    \>히로: \<아! \!그렇구나... \!이 두더지새싹은 행복한 상태야!
+
+
+message_301:
+  text: >-
+    \>히로: \<행복한 적은 우리들의 약점을 맞혀서 더 큰 <br>피해를 줄 확률이 높아.
+
+message_302:
+  text: >
+    \>히로: \<하지만 동시에 빗맞힐 확률도 높지!
+
+
+# SAD MOLE
+message_303:
+  text: >-
+    \>히로: \<흠... \!이 두더지새싹은 좀 슬퍼 보이네... \!몸을 <br>웅크리고 있는 것 보여?
+
+message_304:
+  text: >-
+    \>히로: \<저 상태에서는 공격할 때 평소보다 적은 피해를 주지만...<br><br>공격을 받으면 하트에 더 적은 피해를 받고 그 대신 <br>주스를
+    잃어.
+
+message_305:
+  text: >
+    \>켈: \<정말 슬프네...\!<br>고통을 끝내주자!
+
+
+# YE OLD SPROUT MOLE
+message_306:
+  text: >
+    \>히로: \<뭔가 다른 게 보이지 않아, 오모리?
+
+
+message_307:
+  text: >
+    \>히로: \<화면 아래에 새로운 게이지와 그 옆에 숫자가 나타났을 거야.
+
+
+message_308:
+  text: >
+    \>히로: \<그건 우리가 공유하는 에너지야!
+
+
+message_309:
+  text: >-
+    \>히로: \<우리 에너지를 사용하면 이 적을 함께 물리칠 <br>수 있어!\! 일단 공격해봐. 그러면 알게 될 거야!
+
+message_310:
+  text: >
+    \>히로: \<우리가 공격했을 때 말풍선이 나타나는 것 봤어?\! 그건 추가 행동이라고 해!
+
+
+message_311:
+  text: >-
+    \>히로: \<공격한 다음 잠시 동안 에너지를 사용해서 추가<br>행동을 할 수 있어.
+
+message_312:
+  text: >
+    \>히로: \<아무 방향키나 누른 후에 어떻게 되는지 봐!
+
+
+message_313:
+  text: >
+    \>히로: \<휴...\! 이야...\!<br>정말 강하네.
+
+
+message_314:
+  text: >
+    \>히로: \<적이 우릴 공격했을 때 우리 에너지가 올라가는 것 봤어?
+
+
+message_315:
+  text: >-
+    \>히로: \<우리가 피해를 받으면 에너지도 올라가!\! <br>전세를 뒤집을 기회라고 생각해!
+
+message_316:
+  text: >
+    \>히로: \<좋아... 에너지가 가득 찼어!\! 지금이 특수 공격을 사용할 절호의 기회야!
+
+
+message_317:
+  text: >
+    \>히로: \<오모리...\! 공격한 다음 \DII[down] 버튼을 눌러서 에너지를 방출해!
+
+
+message_318:
+  text: >
+    \>히로: \<다들 준비됐지?
+
+
+message_319:
+  text: >
+    \>히로: \<자, 얘들아...<br>이 덩치한테 우리 실력을 보여주자!
+
+
+# ============Fears extra
+message_320:
+  text: >
+    무언가가 당신을 잡아 끈다...
+
+
+message_321:
+  text: >
+    등골이 오싹하다...
+
+
+message_322:
+  text: >
+    당신은 어둠을 뚫고 위를 향해 헤엄친다...
+
+
+message_340:
+  text: >
+    \>???: \<\n[8]...\! 때로는 무서워해도 괜찮아.
+
+
+message_341:
+  text: >
+    \>???: \<내가 여기 옆에 있잖아.\!<br>숨을 깊게 들이쉬고 눈을 떠봐.
+
+
+
+message_344:
+  text: LIFE JAM GUY waits for you to use the LIFE JAM.
+
+message_345:
+  text: LIFE JAM GUY waits for you to use the LIFE JAM.
+
+message_346:
+  text: LIFE JAM GUY waits for you to use the LIFE JAM.
+
+message_347:
+  text: >
+    \>생명의 잼 가이: \<\c[3]생명의 잼\c[0]을 사용해!\!<br>정말 끝내줘요!
+
+
+
+# =========================================================================================
+# Battle Quotes: SW
+# =========================================================================================
+
+message_350:
+  text: >
+    해롤드가 \v[1001] 경험치를 얻었다!
+
+
+message_351:
+  text: >
+    해롤드의 레벨이 올랐다!
+
+
+message_352:
+  text: >
+    루시우스가 \v[1002] 경험치를 얻었다!
+
+
+message_353:
+  text: >
+    루시우스의 레벨이 올랐다!
+
+
+message_354:
+  text: >
+    마샤가 \v[1003] 경험치를 얻었다!
+
+
+message_355:
+  text: >
+    마샤의 레벨이 올랐다!
+
+
+message_356:
+  text: >
+    테레즈가 \v[1004] 경험치를 얻었다!
+
+
+message_357:
+  text: >
+    테레즈의 레벨이 올랐다!
+
+
+# message_358:
+#    text: >
+#     MARSHA's party rolls initiative...
+
+# message_359:
+#    text: >
+#     LUCIUS's party rolls initiative...
+
+message_360:
+  text: >
+    \v[1003]의 파티가 우선권 굴림을 했다...
+
+
+# message_361:
+#    text: >
+#     THERESE's party rolls initiative...
+
+message_362:
+  text: >
+    내추럴 20! \v[1003]의 파티가 우위를 점했다!
+
+
+message_363:
+  text: >
+    내추럴 1! 오모리의 파티가 우위를 점했다!
+
+
+message_364:
+  text: >
+    \v[1002]! 동등한 싸움이다!
+
+
+# =========================================================================================
+# Battle Quotes: DW
+# =========================================================================================
+
+message_400:
+  text: >
+    \>악어 아저씨: \<어딜 감히 근무지를 이탈하는 거야?\! 다시 가서 일해!
+
+
+message_401:
+  text: >
+    \>악어 아저씨: \<벌써 돌아온 거야?\! 한 번 더 버릇을 고쳐주마!
+
+
+message_402:
+  text: >
+    \>악어 아저씨: \<더 이상은 못 간다!\! 죠썸 씨가 널 다시 보면 화내실 거야.
+
+
+message_403:
+  text: >
+    \>악어 아저시: \<좋아, 친구... 이번에는 못 지나가.
+
+
+message_404:
+  text: >
+    \>악어 아저씨: \<이 사고뭉치 꼬맹이...\! 이번에는 또 무슨 짓을 꾸미는 거야?
+
+
+message_405:
+  text: >
+    \>악어 아저씨: \<어떻게 해야 되는지 알겠지, 얘들아.\! 손님 나가신다.
+
+
+message_406:
+  text: >
+    \>악어 아저씨: \<여기서 뭐 하는 거야!? 이건 계약 위반이야!
+
+
+message_407:
+  text: >
+    \>악어 아저씨: \<이젠 두 명이라고!? 사장님께서 보시면 난리 나겠군!
+
+
+message_408:
+  text: >
+    \>악어 아저씨: \<이젠 세 명이라고!? 사장님께서 보시면 난리 나겠군!
+
+
+message_409:
+  text: >
+    \>악어 아저씨: \<또 근무지 이탈이냐? 이제 너 큰일 났다, 흐흐...
+
+
+message_410:
+  text: >
+    \>악어 아저씨: \<쫓겨나는 게 지겹지도 않냐, 꼬맹아!?
+
+
+message_411:
+  text: >
+    \>악어 아저씨: \<이봐, 꼬맹이! \v[1001] 클램을 내놓으면 이번에는 봐주마.
+
+
+message_412:
+  text: >
+    \>악어 아저씨: \<다음에 또 거래하자고.
+
+
+message_413:
+  text: >
+    \>악어 아저씨: \<쯧쯧... 유감이야, 친구.<br>돈이 부족해!
+
+
+message_414:
+  text: >
+    \>악어 아저씨: \<쯧쯧... 거 참 안타깝네!
+
+
+# ============PLUTO EXPANDED
+# =====After Using Flex
+message_415:
+  text: >
+    \>명왕성: \<어린 켈이여, 인상적이구나!\! \c[1]뽐내기\c[0] 실력이 아주 크게 늘었어!
+
+
+# ============SPROUT MOLE EATER
+# =====Summoning and eating sprout moles
+message_416:
+  text: >
+    두더지새싹이 나타났다!
+
+
+message_417:
+  text: >
+    대왕 지네가 두더지새싹을 먹었다!
+
+
+# ============JUNKYARD EXTRA
+
+message_418:
+  text: >
+    켈이 쓰레기를 뒤지고 있다.
+
+
+message_419:
+  text: >
+    켈이 아무것도 못 찾았다.
+
+
+message_420:
+  text: >
+    켈이 \c[5]깡통\c[0]을 찾았다!
+
+
+message_421:
+  text: >
+    켈이 \c[3]두부\c[0] 한 조각을 찾았다!
+
+
+message_422:
+  text: >
+    켈이 \c[5]고무줄\c[0]을 찾았다!
+
+
+message_423:
+  text: >
+    켈이 \c[3]초콜릿\c[0] 한 조각을 찾았다!
+
+
+message_424:
+  text: >
+    켈이 \c[3]체리 탄산음료\c[0]를 찾았다!
+
+
+message_425:
+  text: >
+    켈이 슬롯 게임을 하고 있다.
+
+
+message_426:
+  text: >
+    켈이 \v[1002] 클램을 땄다!
+
+
+message_427:
+  text: >
+    켈이 \v[1002] 클램을 잃었다...
+
+
+# =========================================================================================
+# Battle Quotes: DW
+# =========================================================================================
+
+
+message_446:
+  text: >
+    \>보스: \<\sinv[1]으하하!\sinv[0]\!<br>이 약골 녀석들!\! 그것도 공격이냐!?
+
+
+message_447:
+  text: >
+    \>보스: \<야, 좀 아프잖아!!\! 흥!\! 이제 재미없어.
+
+
+message_448:
+  text: >
+    \>보스: \<크르르...\!<br>나 진짜 화났어...
+
+
+message_449:
+  text: >
+    \>보스: \<이제 내 특수 기술을 보여주마!
+
+
+message_450:
+  text: >
+    \{\{\sinv[1]\quake[1]몸통 박치기!!\sinv[0]
+
+
+message_445:
+  text: >
+    \>보스: \<응!?\! 어떻게 아직도 움직일 수 있는 거지!?
+
+
+# ============SWEETHEART
+message_451:
+  text: >
+    \sinv[1]\{오 히로!\{ 내 히로!!\}
+
+
+message_452:
+  text: >
+    \sinv[1]\{네 미소에 마음을 빼앗겼어!\}
+
+
+message_453:
+  text: >
+    \sinv[1]\{내 걸로 만들 거야!\}
+
+
+# ============HERO AFRAID OF SPIDER BUNNY
+message_454:
+  text: >
+    히로는 거미를 무서워한다!
+
+
+# ============SWEETHEART DONUT
+message_455:
+  text: >
+    어떻게 감히 내 앞에서 \c[3]도넛\c[0]을 먹을 수가 있지!
+
+
+# ============MUSSEL KEL FLEX
+message_456:
+  text: >
+    관자는 켈의 \c[1]뽐내기\c[0]를 보고 열등감을 느낀다...
+
+
+# ============HUMPHREY POISON
+message_457:
+  text: >
+    위액이 떨어진다...
+
+
+message_458:
+  text: >
+    위액이 쏟아져 내린다!
+
+
+# ============Uvula Shit Talk
+message_459:
+  text: >
+    \>험프리: 넌 그저 고기일 뿐이야. 그러니까 어서 먹게 해줘.
+
+
+message_460:
+  text: >
+    \>험프리: 날 공격하지 마, 음식아.\! 소용없어!
+
+
+message_461:
+  text: >
+    \>험프리: 이래서 먹을 것 가지고 놀면 안되는데.
+
+
+message_462:
+  text: >
+    \>험프리: 냠냠냠...\! 밥 먹을 시간!
+
+
+message_463:
+  text: >
+    \>험프리: 약육강식.\! 못 들어봤어?\! 그게 자연의 섭리라고!
+
+
+message_464:
+  text: >
+    \>험프리: 소화될 때까지 기다려줘.\! 앞에 줄이 있으니까 기다려야 될 거야.
+
+
+message_465:
+  text: >
+    \>험프리: 다른 사람은 다 가만히 있잖아!\! 말 좀 들어, 음식아!
+
+
+# ============Kite Kid Repair
+message_469:
+  text: >
+    연 날리는 아이가 아이의 연을 수리한다.
+
+
+# ============Kite Kid Wind
+message_470:
+  text: >
+    바람이 세차게 불고 있다.
+
+
+message_471:
+  text: >
+    바람이 잔잔하다.
+
+
+message_472:
+  text: >
+    바람이 약해졌다.
+
+
+# =========================================================================================
+# HANGING BODY SOMETHING
+# =========================================================================================
+
+message_501:
+  text: >
+    당신은 현기증을 느낀다.
+
+
+message_502:
+  text: >
+    당신의 가슴이 죄어오는 것이 느껴진다.
+
+
+message_503:
+  text: >
+    당신의 뱃속에 가라앉는 듯한 느낌이 자리 잡았다.
+
+
+message_504:
+  text: >
+    당신의 가슴이 터질 듯 뛰는 것이 느껴진다.
+
+
+message_505:
+  text: >
+    당신의 손가락이 쉬지 않고 떨린다.
+
+
+message_506:
+  text: >
+    당신의 무릎에서 힘이 빠지기 시작했다.
+
+
+message_507:
+  text: >
+    당신의 이마에 땀방울이 흘러내린다.
+
+
+message_508:
+  text: >
+    당신의 눈이 감기고 싶어한다.
+
+
+message_509:
+  text: >
+    당신의 심장이 뛰는 소리가 들린다.
+
+
+message_510:
+  text: >
+    당신의 호흡이 진정되는 것이 들린다.
+
+
+message_511:
+  text: >
+    당신의 심장 박동이 진정되는 것이 들린다.
+
+
+message_512:
+  text: >
+    당신은 용기를 최대한 끌어모은다...\!<br>그리고 극복하는 법을 배웠다.
+
+
+# =========================================================================================
+# FEAR REFIGHTS
+# =========================================================================================
+
+# ============FEAR OF FALLING COUNTDOWN
+message_520:
+  text: >
+    당신은 떨어지고 있다.
+
+
+message_521:
+  text: >
+    \v[1001]턴 남았다...
+
+
+message_522:
+  text: >
+    당신은 바닥에 떨어졌다.
+
+
+# ============FEAR OF FALLING COUNTDOWN
+message_525:
+  text: >
+    방이 물로 가득 채워진다.
+
+
+message_526:
+  text: >
+    숨을 못 쉴 것 같다.
+
+
+
+# =========================================================================================
+# BATTLE QUOTES (FA)
+# =========================================================================================
+
+# ============AUBREY CHURCH
+
+message_540:
+  text: >
+    \}저 애 옷 좀 봐...\| 교회에 저렇게 입고 오다니...
+
+
+message_541:
+  text: >
+    \}교회에 무기를 가져오다니 믿을 수가 없네...\| 교양 없기는...
+
+
+message_542:
+  text: >
+    \}저 양아치들 뭐 하는 짓이야?\| 여긴 예배 드리는 곳이라고!
+
+
+message_543:
+  text: >
+    \}누가 좀 막아봐...\| 쟤네 부모는 어디 있는 거야?
+
+
+message_544:
+  text: >
+    \}저 여자애 때문에 우리 동네가 위험해졌어.\| 저런 죄인은 구제불능이야!
+
+
+message_545:
+  text: >
+    \}저 애가 문제를 일으킬 줄 진작에 알고 있었지...\| 목사님께서 한참 전에 쫓아내셨어야 했는데.
+
+
+message_546:
+  text: >
+    \}요즘 애들은 버르장머리가 없다니까...\|<br>우리 애가 자라서 저렇게 되지는 않아야 할 텐데.
+
+
+# ============PEPPER SPRAY
+message_547:
+  text: >
+    \>찰리: \<!!!
+
+
+message_548:
+  text: >
+    \>엔젤: \<\quake[1]아악!! 내 눈!\! 스승님! 앞이 안 보입니다!!
+
+
+message_549:
+  text: >
+    \>이단아: \<\quake[1]헉...\! 허억...\! 이건 또 무슨 장난질이냐!?
+
+
+message_552:
+  text: >
+    \>밴스: \<아야... 아파.
+
+
+message_551:
+  text: >
+    \>킴: \<이건 또 뭐야!?\! \c[5]후추 스프레이\c[0]?\! 지금 장난해!?
+
+
+
+message_553:
+  text: >
+    \>오브리: 크윽...\! 너희 둘은 정말 최악이야...
+
+
+# =========================================================================================
+# Epliouge Extra Fights
+# =========================================================================================
+
+# ============PLUTO EXPANDED
+
+# Start
+message_600:
+  text: >
+    \>명왕성: \<이게 우리 마지막 싸움이다.\! 너희 실력을 전부 보여봐라.
+
+
+# At 50% HP
+message_601:
+  text: >
+    \>명왕성: \<아...\! 이번에도 너희들을 과소평가했나 보구나.
+
+
+# After Earth Finale
+message_602:
+  text: >
+    \>명왕성: \<나를 이렇게 몰아붙인 사람은 흔치 않지...\! 그리고 멀쩡히 돌아간 사람은 아무도 없었다.
+
+
+message_603:
+  text: >
+    \>명왕성: \<난 승리만을 노린다!\! 내 결의를 보여주마!
+
+
+# Turn 1 of charging
+message_604:
+  text: >
+    \>명왕성: \<너희들을 만나고... \! 너희가 성장하는 걸 지켜볼 수 있어서 기쁘구나.
+
+
+# Turn 2 of charging
+message_605:
+  text: >
+    \>명왕성: \<너희들의 힘은 잘 알겠다...\! 그리고 더 이상 어린아이 취급하지 않으마.
+
+
+message_606:
+  text: >
+    \>명왕성: \<이 싸움의 승리는 나의 것이다...\! 내 심판에서 벗어날 수는 없다!
+
+
+# Before Meteor
+message_607:
+  text: >
+    \>명왕성: \<다음 생에 만나자꾸나.\! 그럼 잘 가라.
+
+
+# Charging
+message_608:
+  text: >
+    명왕성이 필살기를 충전하기 시작했다!
+
+
+message_609:
+  text: >
+    명왕성이 계속해서 필살기를 충전하고 있다...
+
+
+message_610:
+  text: >
+    명왕성이 필살기를 완전히 충전했다!
+
+
+# Pluto Victory
+message_611:
+  text: >
+    \>명왕성: \<슬퍼하지 말 거라.\! 너희는 끝까지 훌륭하게 싸웠으니.
+
+
+# Pluto Defeat
+message_612:
+  text: >
+    \>명왕성: \<이럴 수가...\! 전력을 다한 나를...\! 이기다니.
+
+
+message_615:
+  text: >
+    \>명왕성: \<너희들과 싸울 수 있어 영광이었다.\! 너희들에겐 승리할 자격이 있어.
+
+
+# Pluto's presence
+message_613:
+  text: >
+    명왕성의 근육이 발하는 휘황찬란한 빛이 당신을 압도한다!
+
+
+message_614:
+  text: >
+    슬픈 이들이 전부 약해졌다.
+
+
+# ============Kite Kid Epilouge
+message_620:
+  text: >
+    \>연 날리는 아이: \<우린 바람과 하나야!
+
+
+message_621:
+  text: >
+    \>연 날리는 아이: \<바람이 부는 한 우리는 무적이야!
+
+
+# ============Space Ex-Husband
+# An image appears
+message_630:
+  text: >
+    \>우주 전-남편: \<아아! 기억이 주마등처럼 스쳐가는 구나!
+
+
+# Happy Memories
+message_631:
+  text: >
+    \>우주 전 남편: \<내가... 내 사랑 스위트하트와...\! 그녀의 영광스러운 무대에서 입맞춤을 하고 있어!
+
+
+message_632:
+  text: >
+    \>우주 전 남편: \<내가... 내 사랑 스위트하트와...\! 함께 밤하늘을 올려다보고 있어!
+
+
+message_633:
+  text: >
+    \>우주 전 남편: \<내가... 내 사랑 스위트하트와...\! 서로의 눈을 들여다보고 있어!
+
+
+# Sad Memories
+message_634:
+  text: >
+    \>우주 전 남편: \<내가... 혼자서...\! 내 \c[4]특별한 믹스테이프\c[0]를 버리고 있어...
+
+
+message_635:
+  text: >
+    \>우주 전 남편: \<내가... 혼자서...\! 내 킹 사이즈 침대에 누워 흐느끼고 있어...
+
+
+message_636:
+  text: >
+    \>우주 전 남편: \<내가... 혼자서...\! 내 사랑 스위트하트의 사진을 들고 있어...
+
+# Angry Memories
+message_637:
+  text: >
+    \>우주 전 남편: \<내 사랑 스위트하트야... 하지만...\! 나한테 철퇴를 휘두르고 있어!
+
+
+message_638:
+  text: >
+    \>우주 전 남편: \<내 사랑 스위트하트야... 하지만...\! 다른 남자의 팔에 안겨있어!
+
+
+message_639:
+  text: >
+    \>우주 전 남편: \<내 사랑 스위트하트야... 하지만...\! 내 물건을 집어던지고 있어!
+
+
+# Beggining of Fight: Mechanic indication
+message_640:
+  text: >
+    \>우주 전 남편: \<내게 남은 건 추억뿐이다...
+
+
+message_641:
+  text: >
+    \>우주 전 남편: \<하지만 추억들마저 더 이상 아무런 감정도 불러 일으키지 않아.
+
+
+# Correct answer: Happy
+message_642:
+  text: >
+    \>우주 전 남편: \<아...\! 그래도 좋은 추억이야...
+
+
+# Correct answer: Sad
+message_643:
+  text: >
+    \>우주 전 남편: \<아...\! 그녀가 정말 날 떠나다니 믿을 수가 없어...
+
+
+# Correct answer: Angry
+message_644:
+  text: >
+    \>우주 전 남편: \<크윽!\! 감히 나를 그런 식으로 대하다니!
+
+
+#message_645:
+#   text: >
+#    \>SPACE EX-HUSBAND: \<I GAVE HER MY HEART AND SHE THREW IT AWAY SO EASILY!
+
+# Wrong answer
+message_646:
+  text: >
+    \>우주 전 남편: \<휴...\! 내 고통이 얼마나 깊은지 진정으로 이해하는 사람은 아무도 없어.
+
+
+message_647:
+  text: >
+    \>우주 전 남편: \<감정을 느끼지 않으면...\! 고통으로부터 자유로울 수 있지.
+
+
+# Changing back to neutral
+message_648:
+  text: >
+    \>우주 전 남편: \<안 돼! 내 심장을 지켜야만 해.\! 얼음과... 하나가 되어야 해..
+
+
+# ============Mutant Heart
+# Start
+message_660:
+  text: >
+    \>뮤턴트하트: \<\}아...\! 안녀...
+
+# Happy
+message_661:
+  text: >
+    \>뮤턴트하트: \<\}\sinv[1]행복...\. 부탁해!
+
+# Sad
+message_662:
+  text: >
+    \>뮤턴트하트: \<\}\sinv[1]슬픔...\. 부탁해...
+
+# Angry
+message_663:
+  text: >
+    \>뮤턴트하트: \<\}\sinv[1]화...\. 부탁해.
+
+
+# Wrong
+message_664:
+  text: >
+    \>뮤턴트하트: \<\}\quake[1]으에...\| 틀려!
+
+
+# =========================================================================================
+# BROKEN FEAR SKILLS
+# =========================================================================================
+
+# ============CALM DOWN (Something)
+
+message_750:
+  text: >
+    당신은 진정하려 노력했다...\|<br>하지만 당신의 폐가 숨을 들이쉬려 발버둥 쳤다.
+
+
+# ============FOCUS (Something)
+
+message_751:
+  text: >
+    당신은 집중하려 노력했다...\|<br>하지만 구역질이 당신을 압도했다.
+
+
+# ============PERSIST (Something)
+
+message_752:
+  text: >
+    당신은 버티려고 노력했다...\|<br>하지만 흔들리는 걸 멈출 수가 없다.
+
+
+
+# =========================================================================================
+# CHERISH
+# =========================================================================================
+
+message_806:
+  text: >
+    당신은 켈의 말을 떠올렸다.
+
+
+message_807:
+  text: >
+    당신은 오브리의 소망을 떠올렸다.
+
+
+message_808:
+  text: >
+    당신은 히로의 약속을 떠올렸다.
+
+
+message_809:
+  text: >
+    당신은 바질의 희망을 떠올렸다.
+
+
+message_810:
+  text: >
+    당신은 마리의 부탁을 떠올렸다.
+
+
+message_801:
+  text: >
+    \>켈: \<친구...\! 친구는 서로의 곁에 있어줘야 하는 거야.
+
+
+message_802:
+  text: >
+    \>오브리: \<네가 마음의 평화를 찾았으면 좋겠어...\| 아니면...\| 행복해지거나.
+
+
+message_803:
+  text: >
+    \>히로: \<지난번에는...<br><br><br>\>히로: \<서로를 가장 필요로 할 때 서로를 떠나는 실수를 저질렀어.<br>\>히로:
+    \<이번에는...\| 계속 함께할 거야.
+
+
+message_804:
+  text: >
+    \>바질: \<언젠가는...\| 모든 게 그때처럼 돌아갈 수 있을지도 몰라.
+
+
+message_805:
+  text: >
+    \>마리: \<스스로를 용서해줄 거지...\|<br>그렇지... \n[8]?
+
+
+
+#-------
+
+message_900:
+  text: >
+    \fn<OMORI_GAME>넌 그토록 큰 고통을 불러일으켜 놓고...\|<br>아무것도 하지 않았어.
+
+
+message_901:
+  text: >
+    \fn<OMORI_GAME>그래서 아무것도 얻지 못했지.
+
+
+message_902:
+  text: >
+    \fn<OMORI_GAME>네 친구들은 절대 널 용서하지 않을 거야.
+
+
+message_903:
+  text: >
+    \fn<OMORI_GAME>네가 친구들을 버린 것처럼, <br>친구들도 널 버릴 거야...\! <br>넌 버림받아도 싸.
+
+
+message_904:
+  text: >
+    \fn<OMORI_GAME>다른 사람들한테 짐이 되고 싶지 않다고<br>스스로를 설득하지만...
+
+
+message_905:
+  text: >
+    \fn<OMORI_GAME>사실 너는 이기적인 거야.\!<br>다른 사람들이 네게 의지하지 않았으면 하는 거지.
+
+
+message_906:
+  text: >
+    \fn<OMORI_GAME>다른 사람들 생각은 안 해?\!<br>언제까지 사람들의 보살핌을 받을 거야?
+
+
+message_907:
+  text: >
+    \fn<OMORI_GAME>넌 다른 사람들을 아낀다고 말하지만,<br>그건 거짓말이야.\! 넌 단 한 번도 다른 사람을 위해 뭐라도 한 적이
+    없어.
+
+
+message_908:
+  text: >
+    \fn<OMORI_GAME>넌 쓸모없어...\| 아니, 그 이하야.\!<br>넌 역겨워.
+
+
+message_909:
+  text: >
+    \fn<OMORI_GAME>너 같은 사람은 살아갈 자격도 없어.
+
+
+message_910:
+  text: >
+    \fn<OMORI_GAME>네 친구들은 너에 대해 잘못 생각하고 있어.\!<br>그 애들이 사랑하는 건 네가 아니야.
+
+
+message_911:
+  text: >
+    \fn<OMORI_GAME>넌 자신을 보호하기 위해 친구들을 속였어.
+
+
+message_912:
+  text: >
+    \fn<OMORI_GAME>넌 거짓말쟁이에 불과해...\! <br>그리고 친구들도 그 진실을 알게 되면...
+
+
+message_913:
+  text: >
+    \fn<OMORI_GAME>네가 자신을 증오하는 것만큼이나<br>친구들도 널 증오하게 되겠지.
+
+
+message_914:
+  text: >
+    \fn<OMORI_GAME>친구들이 진실을 알게 되면, <br>넌 절대 신뢰를 회복하지 못할 거야.
+
+
+message_915:
+  text: >
+    \fn<OMORI_GAME>무슨 짓을 해도 소용없을 거야.
+
+
+message_916:
+  text: >
+    \fn<OMORI_GAME>그리고 너는 상황을 악화시키기만 하겠지.\!<br>넌 그냥 죽어버리는 게 나아.
+
+
+
+message_917:
+  text: >
+    \fn<OMORI_GAME>넌 그냥 죽어버리는 게 나아.
+
+
+message_918:
+  text: >
+    \fn<OMORI_GAME>넌 누나를 죽였어.\! <br>누나는 널 사랑했는데, 넌 누나를 죽였어.
+
+
+message_919:
+  text: >
+    \fn<OMORI_GAME>히로가 누나를 사랑했는데, <br>넌 누나를 죽였어.
+
+
+message_920:
+  text: >
+    \fn<OMORI_GAME>오브리가 누나를 사랑했는데, <br>넌 누나를 죽였어.
+
+
+message_921:
+  text: >
+    \fn<OMORI_GAME>켈이 누나를 사랑했는데, <br>넌 누나를 죽였어.
+
+
+message_922:
+  text: >
+    \fn<OMORI_GAME>바질이 누나를 사랑했는데, <br>넌 누나를 죽였어.
+
+
+message_923:
+  text: >
+    \fn<OMORI_GAME>너는 누나를 사랑했는데, <br>누나를 죽였어.
+
+
+message_924:
+  text: >
+    \fn<OMORI_GAME>그냥 죽어버려.
+
+
+message_925:
+  text: >
+    당신은 도망치고 싶다.
+
+
+
+#BATTLE EMOTION
+
+message_926:
+  text: >
+    우주 전 남자친구가 분노했다!
+
+
+message_927:
+  text: >
+    우주 전 남자친구가 격노했다!
+
+
+message_928:
+  text: >
+    우주 전 남자친구가 폭주했다!
+
+
+message_929:
+  text: >
+    스위트하트가 행복해졌다.
+
+
+message_930:
+  text: >
+    스위트하트는 희열에 빠졌다!
+
+
+message_931:
+  text: >
+    스위트하트가 광기에 빠졌다!
+
+
+message_932:
+  text: >
+    언브레드 쌍둥이가 슬퍼졌다...
+
+
+message_933:
+  text: >
+    언브레드 쌍둥이가 우울해졌다...
+
+
+message_934:
+  text: >
+    언브레드 쌍둥이가 비참해졌다...
+
+
+message_935:
+  text: >
+    생명의 잼 가이가 \c[3]생명의 잼\c[0]을 흘렸다!
+
+
+message_936:
+  text: >-
+    \>생명의 잼 가이: \<무료 샘플 맛있게 먹어!\! <br>그럼 안녕! 하하!
+
+message_937:
+  text: >
+
+message_938:
+  text: >-
+    우주 전 남자친구는 더 이상 행복이나 슬픔을 <br>느낄 수 없다!
+
+message_939:
+  text: >
+    스위트하트는 더 이상 슬프거나 분노할 수 없다!
+
+
+message_940:
+  text: >
+    언브레드 쌍둥이는 더 이상 행복하거나 분노할 수 없다!
+
+
+#=======
+#DOROTHI ON TRAIN
+
+message_941:
+  text: >
+    \>???: \<\fn<OMORI_GAME>\n[8]...
+
+
+message_942:
+  text: >
+    \>???: \<\fn<OMORI_GAME>\n[8]...\| \n[8]...\| \n[8]...
+
+
+message_943:
+  text: >
+    \>???: \<\fn<OMORI_GAME>\n[8]...\| 미안...\| 해...
+
+
+message_944:
+  text: >
+    \>???: \<\fn<OMORI_GAME>\n[8]...\. 미안... 해...
+
+
+#=======
+#SNALEY
+
+#----------------------------
+# ** IN BATTLE: SNALEY 1
+#----------------------------
+
+message_950:
+  text: >
+    \>스네일리: \<내 첫 전투야!\! 그럼 간다!
+
+message_951:
+  text: >
+    \>스네일리: \<우와, 싸우는 건 어렵네.\!<br>다시 해볼게!
+
+message_952:
+  text: >
+    \>스네일리: \<난 소질이 없나 봐...
+
+message_953:
+  text: >
+    \>스네일리: \<좋아, 이만하면 됐어.\!<br>가르쳐줘서 고마워.
+
+#----------------------------
+# ** IN BATTLE: SNALEY 2
+#----------------------------
+
+message_954:
+  text: >
+    \>스네일리: \<지난 번에 만난 후로 새로운 스킬들을 배웠어!\! 조심하는 게 좋을 거야!
+
+message_955:
+  text: >
+    \>스네일리: \<멋지지 않아?
+
+message_956:
+  text: >
+    \>스네일리: \<나도 추가 행동 스킬을 사용하는 법을 배웠어!\! 자, 보여줄게!
+
+message_957:
+  text: >
+    \>스네일리: \<어때!?\! 이제 거의 너희만큼 강해졌어!
+
+#----------------------------
+# ** IN BATTLE: SNALEY 3
+#----------------------------
+
+message_958:
+  text: >
+    \>스네일리: \<내가 얼마나 성장했는지 어서 보여주고 싶어!\! 봐주지 마!
+
+message_959:
+  text: >
+    \>스네일리: \<너희만 감정을 사용할 수 있는 건 아니라고!
+
+message_960:
+  text: >
+    \>스네일리: \<정말 강하구나\! 하지만 이제 내 궁극기를 보여줄 차례야!
+
+message_961:
+  text: >
+    스네일리가 슬퍼하고 있다...
+
+message_962:
+  text: >
+    스네일리가 행복해하고 있다!
+    
+message_1010:
+  text: >
+    \>히로: \<친구들! 계약을 맺자...
+
+message_1011:
+  text: >
+    \>히로: \<나는 너희의 하트를 모두 치유해주는 대가로...
+
+message_1012:
+  text: >
+    \>히로: \<나는 너희의 능력치를 높여주는 대가로...
+
+message_1013:
+  text: >
+    \>히로: \<나는 너희의 적들의 능력치를 낮춰주는 대가로...
+
+message_1014:
+  text: >
+    \>히로: \<나는 너희를 행복하게 만드는 대가로...
+
+message_1015:
+  text: >
+    \>히로: \<나는 너희를 슬프게 만드는 대가로...
+
+message_1016:
+  text: >
+    \>히로: \<나는 너희를 분노하게 만드는 대가로...
+
+message_1017:
+  text: >
+    \>히로: \<나는 너희한테 100,000 클램을 주는 대가로...
+
+message_1018:
+  text: >
+    \>히로: \<나는 너희한테 피자를 10판 주는 대가로...
+
+message_1019:
+  text: >
+    \>히로: \<이번 턴에 너희 공격은 가슴에 직격하게 될 테지만, 그 대신...
+
+message_1020:
+  text: >
+    \>히로: \<네 적들의 하트를 완전히 회복시킬 거야!
+
+message_1021:
+  text: >
+    \>히로: \<네 하트와 주스를 최대치의 절반으로 줄일 거야!
+
+message_1022:
+  text: >
+    \>히로: \<네 적들의 능력치를 높일 거야!
+
+message_1023:
+  text: >
+    \>히로: \<네 능력치를 낮출 거야!
+
+message_1024:
+  text: >
+    \>히로: \<네 적들을 행복하게 만들 거야!
+
+message_1025:
+  text: >
+    \>히로: \<네 적들을 슬프게 만들 거야!
+
+message_1026:
+  text: >
+    \>히로: \<네 적들을 분노하게 만들 거야!
+
+message_1027:
+  text: >
+    \>히로: \<네 모든 클램을 가져갈 거야!
+
+message_1028:
+  text: >
+    \>히로: \<이번 턴에 적들의 공격이 너희 가슴에 직격하게 할 거야!
+
+message_1029:
+  text: >
+    히로의 계약서에 서명할까?
+
+message_1030:
+  text: >
+    \>히로: \<좋았어! 계약 성립!
+
+message_1031:
+  text: >
+    \>히로: \<정말 아깝네...
+
+message_1032:
+  text: >
+    \>악어 아저씨: \<저기, 보스! 계약을 받아들일게요!
+
+message_1033:
+  text: >
+    악어 아저씨가 100,000 클램을 벌었다!
+
+message_1034:
+  text: >
+    악어 아저씨는 피자 파티를 열었다!
+
+message_1035:
+  text: >
+    악어 아저씨는 모든 클램을 잃었다.
+
+message_1036:
+  text: >
+    오모리가 200 클램을 주웠다!
+
+message_1037:
+  text: >
+    오모리가 600 클램을 주웠다!
+
+message_1038:
+  text: >
+    \>히로: \<미안, 친구들...\| 기회가 왔을 때 내 제안을 받아들였어야지!
+
+message_1039:
+  text: >
+    \>히로: \<친구들...\! 우리...\! 계약을...\! 헉...\| 헉...\| 후우
+
+message_1040:
+  text: >
+    바질은 공포에 휩싸여 움직이지 못한다.         
+    
+    
+
+message_10000:
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel이야, 우리 형이 사장이 되다니 실감이 안 가네!\! 잘하고 있어!
+
+message_10001: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: \aub히로 오빠, 넥타이 매 봐! 엄청 잘 어울릴걸!
+
+message_10002: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kel기분이 좀 어때, 히로 형?
+
+message_10003: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: \n<보스맨 히로>느낌이...\! 괜찮은 것...\! 같기도 하고...
+
+message_10004: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: \aub손가락을 튕겨봐!
+
+message_10005: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \n<보스맨 히로>아-알겠어... 이렇게 말이지?
+
+message_10006: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \n<보스맨 히로>야! 꽤나 멋진데!
+
+message_10007: 
+  text: \n<보스맨 히로>\sinv[1]\헷...\! 헷, 헷...
+
+message_10008: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aub으음... 히로 오빠?\! 괜찮은 거 맞아?
+
+message_10009: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 24
+  text: \kel과하게 행복해 보이는데...
+
+message_100010: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: \n<보스맨 히로>행복하냐고?\! 바보 같은 소리 마, 켈.
+
+message_100011: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 15
+  text: \n<보스맨 히로>\com[2]\{\{\quake[1]보스는 감정 따위 안 느껴!
+
+message_100012: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: \kel아이고, 안돼!\! 히로 형이 권력 때문에 미쳐버렸어!
+
+message_100013: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 51
+  text: \n<보스맨 히로>어이, 좋은 생각이 하나 있는데! 내가 사장이 됐으니 말인데... 내 밑에서 일 좀 해볼래?\! 월급은 줄 수 없지만, 너희에겐 성장할 수 있는 좋은 기회가 될 것 같거든!
+
+message_100014: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aub\com[2]히로 오빠! 끔찍한 소리하지 마!
+
+message_100015: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: \kel형, 무슨 소릴 하는 거야? 정신 차려!
+
+message_100016: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: \aub오모리... 우리가 뭐라도 해야 돼!\! 히로 오빤 우리 친구지만...\! 평소와 행동하는 게 다르잖아!
+
+message_100017: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aub어쩌지, 흠...\! 대화로 해결할 수 있을지도 몰라...
+
+message_100018: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 31
+  text: \kel대화로 될 일이 아니야!\! 말하는 걸 들어보라고!
+
+message_100019: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 51
+  text: \n<보스맨 히로>\com[2]\{\{\quake[1]뭐!? 휴가를 달라고!?
+
+message_100020: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 15
+  text: \n<보스맨 히로>\com[2]\{\{\quake[1]내 눈에 흙이 들어가기 전엔 안 돼!!
+
+message_1000124: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 15
+  text: \n<보스맨 히로>\com[2]\{\{\sinv[2]죠하하하하하하!!
+
+message_100021: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aub오모리, 어떡하면 좋지?\! 히로 오빠와 싸우는 수밖에 없을까?
+
+message_100022: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 8
+  text: \aub히로 오빠...\! 오빠가 우리의 친구라는 건 알지만...
+
+message_100023: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aub친구니까, 얼간이 짓을 하고 있을 때 우리가 이렇게 얘기해주는 거야!
+
+message_100024: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: \kel미안해, 형.\! 형의 이런 모습은 차마 못 보겠어.\! 우리가 그 콧대 좀 꺾어줄게!
+
+message_100025: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: \kel자! 어서 쓰러트리자, 오모리!
+
+message_100026: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aub오-오모리, 진심이야?
+
+message_100027: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: \aub으음, 알겠어...
+
+message_100028: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 51
+  text: \n<보스맨 히로>\com[2]\quake[1]어이! 너희 셋, 지금 어딜 가는 거야!?
+
+message_100029: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 15
+  text: \n<보스맨 히로>요즘 경제 상태를 보면...\| 일자리 제안을 받는 것만으로도 행운인 거야!
+
+message_100030: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: \aub...
+
+message_100031: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 27
+  text: \kel...
+
+message_100032: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 8
+  text: \aub히로 오빠...\! 오빠가 우리의 친구라는 건 알지만...
+
+message_100033: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aub친구니까, 얼간이 짓을 하고 있을 때 우리가 이렇게 얘기해주는 거야!
+
+message_100034: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: \kel미안해, 형.\! 형의 이런 모습은 차마 못 보겠어.\! 우리가 그 콧대 좀 꺾어줄게!
+
+message_100035: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 30
+  text: \kel자! 어서 쓰러트리자, 오모리!
+
+message_100036: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 48
+  text: \her으윽...\! 어지러워...\! 여기가 어디지?
+
+message_100037: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aub받아랏!
+
+message_100038: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \her오브리?\! 자-잠깐만! 뭐가 어떻게 돌아가는 거야!?
+
+message_100039: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 28
+  text: \kel어어... 오브리...\! 정상으로 돌아온 것 같은데.
+
+message_100040: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aub그냥...\! 딱 한 대만 더!
+
+message_100041: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \her으-응? 오브리, 멈춰!\! 내-내가 무슨 짓을 했길래?
+
+message_100042: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 5
+  text: \aub엄청 얄밉게 굴었거든!
+
+message_100043: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \her그-그-그치만 어쩌다!?
+
+message_100044: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: \aub흥!
+
+message_100045: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: \aub가자, 오모리!
+
+message_100046: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: \her켈...\| 넌 내가 무슨 짓을 했는지 아니?
+
+message_100047: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 26
+  text: \kel...\! 히로 형, 자기 자신이 무지 자랑스럽지? 그렇지?
+
+message_100048: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: \her자-잠깐만... 뭐-뭐어!?
+
+message_100049: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \her얘들아... 기다려 봐!
+
+message_100050: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \her미안해!
+
+message_100051: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 47
+  text: \her휴우... 이 보스 러시 도전이란 건 꽤나 힘든걸...
+
+message_100052: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: \her그래도 최소한 우리가 \sinv[1]진짜\sinv[0] 위험에 빠져있는 건 아니란 걸 알고 있으면서 싸울 수 있다는 점은 좋아...
+
+message_100053: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 2
+  text: \aub히로 오빠, 방금 한 말을 듣자마자 좋은 생각이 떠올랐어!
+
+message_100054: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: \aub여기가 안전한 곳이란 건 우리 모두 알잖아. 그러니까 바질에게 전투 연습을 시켜줄 좋은 기회가 온 걸지도 몰라!
+
+message_100055: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: \her좋은 생각이야!\! 바질, 네 생각은 어떠니?
+
+message_100056: 
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \bas어-어! 나!?
+
+message_100057: 
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \bas그게...\! 솔직히 좀 걱정 되는데...
+
+message_100058: 
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas그래도, 괜찮을 것 같아. 너희 모두랑 같이 간다면야!
+
+message_100059: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kel잠깐, 가만 있어 봐...\! 우리 모두가 바질이랑 같이 가면, 너무 쉽겠지!
+
+message_100060: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 40
+  text: \her맞는 말이야.\! 그럼 우리 중 한 명이랑만 가는 게 좋겠네.
+
+message_100061: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 37
+  text: \her오모리가 한번 해볼래?
+
+message_100062: 
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas그래, 그러면 난 좋아!
+
+message_100063: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel아, 아! 좋은 생각 났어!
+
+message_100064: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 1
+  text: \aub켈, 보스한테 무슨 부탁을 한 거야?
+
+message_100065: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kel\sinv[1]아무것도 아냐...\sinv[0] 비밀이지롱!
+
+message_100066: 
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \mar\sinv[1]어머...\sinv[0]<br>켈, 뭐야, 뭐야? 나한테만 알려줘!
+
+message_100067: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 16
+  text: \kel알겠어! 대신 오브리에겐 비밀이야!
+
+message_100068: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aub야!
+
+message_100069: 
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \mar\sinv[1]으음...\| 으음...\| 어머!
+
+message_100070: 
+  faceset: MainCharacter_Mari
+  faceindex: 7
+  text: \mar정말 재밌겠는걸!\! 나도 좋은 생각 하나 떠올랐어!
+
+message_100071: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aub에이... 치사해, 켈!\! 우리한테 숨기면 안 되지...
+
+message_100072: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \her맞아, 나도 궁금해!
+
+message_100073: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel걱정하지 마! 이러는 편이 더 재밌다고!
+
+message_100074: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 9
+  text: \aub너야 재밌을지도 모르지...
+
+message_100075: 
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \mar맞아! 모든 게 계획대로만 되면 모니터에서 다 같이 볼 수 있을 거야.
+
+message_100076: 
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \mar오모리, 바질, 준비가 됐길 바랄게!
+
+message_100077: 
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \mar둘 다 괜찮을 거라고 믿긴 하지만.
+
+message_100078: 
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \mar가서 혼쭐을 내달라고!
+
+message_100079: 
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \bas다들 고마워.\! 우리도 최선을 다해볼게!
+
+message_100080: 
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas같이 해보자, 오모리!
+
+message_100081: 
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \bas아... 네 말이 맞아.\! 기다려보는 게 좋을 것 같아...
+
+message_100082: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \her우편함에서 \c[3]간식\c[0]이랑 \c[5]장난감\c[0]을 챙기는 걸 잊지 마.\! 미리미리 준비하는 게 좋지!
+
+message_100083: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel넌 할 수 있어, 바질!\! 갈고 닦은 \c[1]스킬\c[0]을 보여줘!
+
+message_100084: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aub켈과 마리 언니가 뭘 준비했으려나...\! 난 비밀 같은 건 싫어!
+
+message_100085: 
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \mar오모리, 왜 그런 이상한 표정을 짓고 그러니?\! 즐기렴!
+
+message_100086: 
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \bas아... 미안해, 오모리.\! 난 아직 싸울 준비가 안 된 것 같아.\! 먼저 하고 싶은 다른 일은 없니?
+
+message_100087: 
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas알겠어, 너무 신경 쓰지 마!\! 다음에 할 수 있을지도 모르지!
+
+message_100088: 
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \bas저기, 오모리! 나랑 같이 보스 러시에 도전할 준비 됐니?
+
+message_100089: 
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas좋아, 같이 해보자!
+
+message_100090: 
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \bas켈과 마리 누나가 뭘 준비했을지 걱정이 되는데, 그래도 우리가 잘 해낼 수 있을 거라고 봐!
+
+message_100091: 
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas알겠어, 너무 신경 쓰지 마!\! 다음에 할 수 있을지도 모르지!
+
+message_100092: 
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \bas저기, 오모리! 나랑 같이 보스 러시에 다시 도전할 준비 됐니?
+
+message_100093: 
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas좋아, 같이 해보자!
+
+message_100094: 
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \bas너무 약해서 미안해... 그래도 조금씩 나아지는 듯한 기분이 들어!
+
+message_100095: 
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \bas아, 그래! 켈이랑 마리 누나가 준비해놓은 걸 아직 못 봤잖아...\! 과연 뭘지 궁금해.
+
+message_100096: 
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \bas저기, 오모리! 나랑 같이 보스 러시에 다시 도전할 준비 됐니?
+
+message_100097: 
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas너무 약해서 미안해... 그래도 조금씩 나아지는 듯한 기분이 들어!
+
+message_100098: 
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \bas켈이랑 오브리, 히로 형의 시뮬레이션을 보고 깜짝 놀랐어.\! 꽤 힘든 상대이긴 하지만, 우리가 함께 힘을 합치면 분명 이길 수 있을 거야!
+
+message_100099: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel\com[544]우왓!! 너희들, 굉장했어!
+
+message_1000100: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 10
+  text: \aub\com[543]켈, 비켜봐! 혼자 화면을 다 가리고 있잖아!
+
+message_1000101: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: \aub\com[543]둘 다 아주 잘하고 있어! 계속 그렇게만 해!
+
+message_1000102: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 27
+  text: \kel\com[544]나도 똑같이 말했는데...
+
+message_1000103: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 38
+  text: \her\com[541]훌륭해, 얘들아! 계속 그렇게만 하자!
+
+message_1000104: 
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \mar\com[542]우리 말이 안 들린다는 건 알지만, 그래도 우린 최대한 크게 응원하는 중이란다!
+
+message_1000105: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel\com[544]바로 그거야! 험프리한테 누가 이 구역 대장인지 보여줘!
+
+message_1000106: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aub\com[543]응? 도전은 이걸로 끝 아니야?
+
+message_1000107: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 11
+  text: \aub\com[543]마리 언니랑 정확히 뭘 한 거야?\! \com[543]딱히 이상한 점은 안 보이는데.
+
+message_1000108: 
+  faceset: MainCharacter_Mari
+  faceindex: 7
+  text: \mar\com[542]오... 금방 보게 될 거야!
+
+message_1000109: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 6
+  text: \aub\com[543]가만, 저거 설마 나야?
+
+message_1000110: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \her\com[541]잠깐, 저건 우리가 아니야! 우리가 우리지!
+
+message_1000112: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel\com[544]헤, 헤! 이건 예상 못 했을걸!
+
+message_1000113: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 19
+  text: \kel\com[544]걱정 마, 얘들아...\! \com[544]우리들만큼 강하지는 않거든. 그래도 최선을 다해봐!
+
+message_1000114: 
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \mar\com[542]둘 다, 행운을 빌어! 너희라면 할 수 있단 거 알아!
+
+message_1000115: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \her\com[541]어? 마리가 저 아래에서 뭘 하는 거지??
+
+message_1000116: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 46
+  text: \her\com[541]거기 가만히 있어, 알겠지?\! \com[541]내가 구하러 갈-
+
+message_1000117: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 39
+  text: \her\com[541]어, 잠깐... 넌 여기 있는데!
+
+message_1000118: 
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \mar\com[542]오, 히로. 너무 바보 같잖니!
+
+message_1000119: 
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \mar\com[542]나도 내가 싸움에 어울리지 않는단 건 알지만...\! \com[542]만약 싸운다면 어떨지 보고 싶었거든! 후후...
+
+message_1000120: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 3
+  text: \aub\com[543]나도 마리 언니가 싸우는 걸 보고 싶어! 너무 기대된다!
+
+message_1000121: 
+  faceset: MainCharacter_Mari
+  faceindex: 6
+  text: \mar\com[542]오모리, 바질, 걱정할 건 없어! 진짜 나는 아니니까!\! \com[542]난 여기 있을 거야!
+
+message_1000123: 
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \mar\com[542]이제, 안녕! 금방 다시 만나게 될 거야!
+
+message_1000128: 
+  text: \n<보스>어이쿠, 바질! 너도 보스 러시에 도전하려고?\! 잘 돌봐줘라, 오모리!
+
+message_1000129: 
+  text: \n<보스>공간 이동기를 설정해줄게.
+
+message_1000131: 
+  text: \n<보스>켈의 깜짝 선물이 마음에 들었어?\! 켈이 간만에 괜찮은 생각을 한 것 같군.
+
+message_1000132: 
+  text: \n<보스>다시 한번 해보고 싶다면, 그 싸움으로 곧장 전송해줄 수 있는데!\! 그렇게 해줄까?
+
+message_1000130: 
+  text: 히로와 켈의 단순한 2인용 식탁.
+
+message_1000133: 
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \mar켈은 정말 창의적이야!\! 재미있는 걸 생각해내는 재주가 있다니까...\| 재미있고 참신한 방법으로 곤란한 상황에 빠지는 것도 잘 하고...
+
+message_1000134: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 4
+  text: \aub모두들 시뮬레이션이 너무 정확해 보이는데.\! 어휴... 난 정말 저렇게 생긴 거야?
+
+message_1000135: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 18
+  text: \kel요, 아까 그 전투는 \sinv[1]너어어어어무우우우\sinv[0] 대단했어!!\! 어느 쪽을 응원해야 할지 모를 정도였다니까! 헤헤...
+
+message_1000136: 
+  faceset: MainCharacters_DreamWorld
+  faceindex: 41
+  text: \her너희들은 어떤지 잘 모르겠는데, 내 시뮬레이션은 좀 이상한 것 같아...
+
+message_1000137: 
+  faceset: MainCharacter_Mari
+  faceindex: 2
+  text: \mar오모리, 이상한 표정으로 쳐다보는데. 잘못된 거라도 있니?\! 뭔데 그래? 뭐든 얘기해도 돼!
+
+message_1000138: 
+  faceset: MainCharacter_Mari
+  faceindex: 0
+  text: \mar오모리, 네가 자기 표현을 잘 하는 성격이 아니라는 건 알지만...\| 난 네가 무슨 생각을 하고 있는지 정도는 알 수 있어.
+
+message_1000139: 
+  faceset: MainCharacter_Mari
+  faceindex: 3
+  text: \mar내가 언제나 누나로서 항상 네 곁에 있어줄 거라는 걸 알아줬으면 좋겠어!\! 난 여기 있는 한 항상 널 돌봐줄 거야...\| 영원히 말이야!
+
+message_1000140: 
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas오모리, 안녕! 너희가 적들이랑 싸우는 걸 모니터로 지켜보고 있으니까 나도 언젠가 너희랑 함께할 수 있었으면 좋겠다는 생각이 들어.
+
+message_1000141: 
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \bas물론... 당장은 어렵겠지만...
+
+message_1000142: 
+  faceset: MainCharacter_Basil
+  faceindex: 2
+  text: \bas근데 좀 이상한 점이 있긴 해. 이미 해본 적 있는 것 같은 기분이-
+
+message_1000143: 
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \bas어, 이게 뭐지?\! 이건 내 게 아닌데...
+
+message_1000144: 
+  faceset: MainCharacter_Basil
+  faceindex: 1
+  text: \bas사실 이건 네 물건이 확실히 맞는 것 같아.\! 자, 도로 가져가도 돼!
+
+message_1000145: 
+  text: 바질이 \c[13]\v[1284]\c[0][을;를] 주었다.
+
+message_1000146: 
+  faceset: MainCharacter_Basil
+  faceindex: 6
+  text: \bas아-아앗! 왜 그러니, 오모리? 표정이 완전히 바뀌었는데.
+
+message_1000147: 
+  faceset: MainCharacter_Basil
+  faceindex: 0
+  text: \bas이게 어쩌다 여기 오게 됐는지 정말 모르겠어.\! 난 안 훔쳤어, 정말이야!
+				

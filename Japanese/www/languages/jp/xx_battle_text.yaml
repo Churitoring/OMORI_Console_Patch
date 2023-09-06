@@ -1,0 +1,3454 @@
+﻿# =========================================================================================
+# Battle Quotes
+# =========================================================================================
+
+# Plot Armor
+
+message_1000:
+   text: >
+    オモリは屈しなかった。
+
+message_1001:
+   text: >
+    オモリは屈しない。
+
+message_1002:
+   text: >
+    目の前が真っ暗になった……
+
+# ============Enemy:
+
+# COMMENT
+
+message_1:
+   text: >
+    スペース元カレはこれ以上「にこにこ」になれない！
+# COMMENT
+
+message_2:
+   text: >
+
+# GETTING WEAKER (25%)
+
+message_3:
+   text: >
+
+# AFTER DEFEAT
+
+message_4:
+   text: >
+
+# AFTER VICTORY
+
+message_5:
+   text: >
+
+
+# ============Enemy:  KITE KID
+
+# Before Kid's Kite "FLY- Part 2"
+
+message_10:
+   text: >
+    \>カイトキッド：\<僕とたこの本当の力を見せてやる！
+
+# Before Kid's Kite "Repair"
+
+message_11:
+   text: >
+    \>カイトキッド：\<僕たちを倒せるとでも？
+
+message_12:
+   text: >
+    \>カイトキッド：\<甘いんだよ！
+
+# GETTING WEAKER (25%)
+
+message_13:
+   text: >
+    \>カイトキッド：\<うそ……そんな……
+
+message_14:
+   text: >
+    \>カイトキッド：\<風が……\!<br>弱くなってる……！
+
+
+# AFTER DEFEAT
+
+message_15:
+   text: >
+    \>カイトキッド：\<僕とたこの絆でも……
+
+message_16:
+   text: >
+    \>カイトキッド：\<負ける、というの……？
+
+
+# AFTER VICTORY
+
+message_17:
+   text: >
+    \>カイトキッド：\<ははっ！風の言う通りだ！\!僕とたこは無敵なんだ！
+
+
+# ============Enemy:  PLUTO
+
+# Before Strong Attack
+
+#message_18:
+#   text: >
+#    \>PLUTO: \<\<<br>\sinv[2]WOEWO\{EWEOWEOWEOW!!!
+
+# Getting Weaker
+
+message_19:
+   text: >
+    \>???: \<\<<br>\sinv[2]ガ～ハッ\{ハッ\{ハッハッ！
+
+message_20:
+   text: >
+    \>???: \<\<<br>何という力！
+
+# After Defeat
+
+message_21:
+   text: >
+    \>???: \<\<フン……\!<br>いい戦いだった。
+
+message_22:
+   text: >
+    \>???: \<\<だが……\!ぜぇ……\!ぜぇ……\!<br>そう簡単には倒れんぞ……
+
+# After Victory
+
+message_23:
+   text: >
+    \>???: \<\<フン……\!<br>よく戦ったが……\!鍛錬不足のようだな。
+
+
+
+# ============Enemy:  Space Ex-Boyfriend
+
+# Getting Weaker (50%, Before Enraged):
+
+message_25:
+   text: >
+    \>スペース元カレ：\<<br>んがっ！！\!なぜ！まだ動くというのか！？
+
+message_26:
+   text: >
+    \>スペース元カレ：\<<br>貴様らには……\!負けんぞ……！
+
+# Before ‘Bullet Hell' (25%):
+
+message_27:
+   text: >
+    \>スペース元カレ：\<<br>どけぇ、地を這いよる下等生物ども！
+
+message_28:
+   text: >
+    \>スペース元カレ：\<<br>これが最後の警告だ！
+
+# After Defeat:
+
+message_29:
+   text: >
+    \>スペース元カレ：\<<br>うぐっ……\!胸が……
+
+message_30:
+   text: >
+    \>スペース元カレ：\<<br>心が……\!痛む……
+
+# After Victory:
+
+message_31:
+   text: >
+    \>スペース元カレ：\<<br>我に挑むことがいかに愚かなことだったのか、これで思い知ったであろう？
+
+message_32:
+   text: >
+    \>スペース元カレ：\<<br>貴様らはただ地を這いよる下等生物にすぎない！
+
+# ============Enemy: SPROUT MOLE EATER
+
+# Before ‘Ram':
+
+message_33:
+   text: >
+    \>キングクローラー：\<<br>\quake[1]\}キ～シシシシシシシ……
+
+# Getting Weaker:
+
+message_34:
+   text: >
+    \>キングクローラー：\<<br>\quake[1]\}ふしゅ～～～～～……
+
+# After Victory:
+
+message_35:
+   text: >
+    \>キングクローラー：\<<br>\quake[1]\}キ～シシシシシシシ！！
+
+# ============Enemy:  Bandito Mole
+
+# Before ‘B.E.D.':
+
+message_36:
+   text: >
+    X
+
+# Before ‘Dynamite':
+
+message_37:
+   text: >
+    X
+
+# Getting Weaker:
+
+message_38:
+   text: >
+    X
+
+# After Defeat
+
+message_39:
+   text: >
+    X
+
+# After Victory
+
+message_40:
+   text: >
+    X
+
+# ============Enemy:  Sir Maximus 1
+
+# Before Strong Attack:
+
+message_41:
+   text: >
+    \>マキシマス卿：\<<br>見よ！我が一族に代々伝わりし奥義……！
+
+message_42:
+   text: >
+    \>マキシマス卿：\<<br>これが、私の渾身の一撃である！
+
+message_43:
+   text: >
+    \sinv[1]ハア\{アアア\{アアア！！
+
+# Getting Weaker
+
+message_44:
+   text: >
+    \>マキシマス卿：\<<br>そんなバカな……\!私は……\!<br>ここで敗れるわけにはいかん……
+
+message_45:
+   text: >
+    \>マキシマス卿：\<<br>息子が家で私を待っているんだ！
+
+# After Defeat
+
+message_46:
+   text: >
+    \>マキシマス卿：\<<br>うっ……\!ここで終わるはずは……
+
+message_47:
+   text: >
+    \>マキシマス卿：\<<br>息子が……\!私の仇を取ってくれよう……
+
+message_48:
+   text: >
+    \>マキシマス卿：\<<br>ただで済むと思うなよ！
+
+# After Victory
+
+message_49:
+   text: >
+    \>マキシマス卿：\<<br>我が一族に代々伝わりし奥義は一度も敗れたことがないのだ！
+
+message_50:
+   text: >
+    \>マキシマス卿：\<<br>私に歯向かうのは愚かだったな！
+
+# ============Enemy:  Sir Maximus 2
+
+# Before Strong Attack:
+
+message_51:
+   text: >
+    \>マキシマス卿II世：\<<br>ご先祖さまの力に刮目せよ！
+
+message_52:
+   text: >
+    \>マキシマス卿II世：\<<br>父上が見守ってくださっているのだ！
+
+message_53:
+   text: >
+    \>マキシマス卿II世：\<<br>これが、私たちの渾身の一撃である！
+
+message_54:
+   text: >
+    \sinv[1]ハア\{アアア\{アアア！！
+
+# Getting Weaker
+
+message_55:
+   text: >
+    \>マキシマス卿II世：\<<br>そんなバカな……父上を無駄死にさせたくない……！
+
+# After Defeat
+
+message_56:
+   text: >
+    \>マキシマス卿II世：\<<br>父上……<br>どうか許してください……
+
+message_57:
+   text: >
+    \>マキシマス卿II世：\<<br>申し訳ありません……\!<br>仇を取れませんでした……
+
+# After Victory
+
+message_58:
+   text: >
+    \>マキシマス卿II世：\<<br>父上の仇を取ったぞ！
+
+message_59:
+   text: >
+    \>マキシマス卿II世：\<<br>めでたい日だ！
+
+# ============Enemy:  Sir Maximus 3
+
+# Before Strong Attack
+
+message_60:
+   text: >
+    \>マキシマス卿III世：\<<br>ご先祖さまの力に刮目せよ！
+
+message_61:
+   text: >
+    \>マキシマス卿III世：\<<br>父上とおじい様が見守ってくださっているいのだ！<br>これが、私たちの渾身の一撃である！
+
+message_62:
+   text: >
+    \sinv[1]ハア\{アアア\{アアア！！
+
+# Getting Weaker
+
+message_63:
+   text: >
+    \>マキシマス卿III世：\<<br>そんなバカな……父上とおじい様を<br>無駄死にさせたくない……！
+
+# After Defeat
+
+message_64:
+   text: >
+    \>マキシマス卿III世：\<<br>父上……おじい様……
+
+message_65:
+   text: >
+    \>マキシマス卿III世：\<申し訳ありません……\!<br>仇を取れませんでした……
+
+# After Victory
+
+message_66:
+   text: >
+    \>マキシマス卿III世：\<<br>一族の仇を取ったぞ！
+
+message_67:
+   text: >
+    \>マキシマス卿III世：\<<br>めでたい日だ！
+
+# ============Enemy:  Sweetheart
+
+# Before Strong Attack (Before Ecstatic):
+
+message_68:
+   text: >
+    \sinv[1]\{オ～ホッ\{ホッホ！\}
+
+# Getting Weaker (75%)
+
+message_69:
+   text: >
+    \>スイートハート ：\<ワタシに手を上げるとはいい度胸なのだわ！
+
+message_70:
+   text: >
+    \>スイートハート ：\<この大バカ者！\!跪いて許しを請いなさい！
+
+# Getting Weaker (50%, Ecsatatic):
+
+message_71:
+   text: >
+    \>スイートハート ：\<オ～ホッホッ！\!ワタシの美貌と優雅さは無尽蔵なのだわ！
+
+message_72:
+   text: >
+    \>スイートハート ：\<もうすぐ二度と堪能できないあなたたちが、かわいそうに思えてきたのだわ！
+
+# Getting Weaker (20%, Manic):
+
+message_75:
+   text: >
+    \>スイートハート ：\<フン！まだ立っていられるとは驚きなのだわ。
+
+message_76:
+   text: >
+    \>スイートハート ：\<ゴキブリらしい生命力だと褒めてあげるのだわ！
+
+message_77:
+   text: >
+    \sinv[1]\{オ～ホッ\{ホッホ！\}
+
+# Before Strong Attack (Manic):
+# Use 3 times
+
+message_78:
+   text: >
+    \sinv[1]\{オ～ホッ\{ホッホ！\}
+
+# After Defeat
+
+message_79:
+   text: >
+    \>スイートハート ：\<ウソ……\!これが……\!<br>敗北の味……？
+
+message_80:
+   text: >
+    \>スイートハート ：\<<br>こんなの認めない……\!<br>認めないのだわ！！
+
+message_81:
+   text: >
+    \>スイートハート ：\<<br>卑しい庶民のくせに生意気なのだわ！
+
+# After Victory
+
+message_82:
+   text: >
+    \sinv[1]\{オ～ホッ\{ホッホ！\}
+
+message_83:
+   text: >
+    \>スイートハート ：\<朝飯前だったのだわ！\!ただの卑しい庶民のくせに生意気なのだわ！
+
+message_112:
+   text: >
+    \>スイートハート ：\<<br>\c[11]スイートダンジョン\c[0]にいってらっしゃい！
+
+
+
+# ============Enemy:  Reverse Mermaid
+
+# Before Strong Attack:
+
+message_84:
+   text: >
+    \>逆人魚：\<強さを克服すると、困難を手に入れられる。
+
+# Getting Weaker:
+
+message_85:
+   text: >
+    \>逆人魚：\<人類の最大の諦めは弱点の早さである。
+
+# After Defeat:
+
+message_86:
+   text: >
+    \>逆人魚：\<その一部であり、生きると死ぬは反対ではない。
+
+# After Victory:
+
+message_87:
+   text: >
+    \>逆人魚：\<勝利から敗北の秘訣を学ぼう。
+
+# ============Enemy:  Mr. Jawsome
+
+# Intro
+
+message_88:
+   text: >
+    \>鮫羽田社長：\<野郎ども……\!この子たちを優しくエスコートしてやってはくれねえか？
+
+
+# Before ‘Summon Henchmen':
+
+message_89:
+   text: >
+    \>鮫羽田社長：\<もっと人手を寄こせっつってんだよ！
+
+message_90:
+   text: >
+    \>鮫羽田社長：\<今！\quake[1]すぐに！
+
+# Before ‘Give Orders':
+
+message_91:
+   text: >
+    \>鮫羽田社長：\<こいつらを追い出すことぐらいできんだろ！
+
+message_92:
+   text: >
+    \>鮫羽田社長：\<ちゃんと追い出したワニはただでピザやるから！\!<br>\quake[1]俺のおごりだ！
+
+# Getting Weaker:
+
+message_93:
+   text: >
+    \>鮫羽田社長：\<そろそろ人手が足りなくなる、だと！？\!そんなことあるわけねえだろ！
+
+# After Defeat:
+
+message_94:
+   text: >
+    \>鮫羽田社長：\<ただのガキに騙されたってのか！？
+
+message_95:
+   text: >
+    \>鮫羽田社長：\<何のために雇ったと思ってんだ！！
+
+# After Victory:
+
+message_96:
+   text: >
+    \sinv[2]\{シャーハッ\{ハ～！
+
+message_97:
+   text: >
+    \>鮫羽田社長：\<鮫羽田社長に逆らうとどうなるか、わかったか！？
+
+# ============Enemy:  PLUTO EXPANDED
+
+# Intro
+
+message_98:
+   text: >
+    \>プルート：\<刮目せよ……\!<br>俺の最終形態を……
+
+message_99:
+   text: >
+    \>プルート：\<熱く……\!なってきたな……
+
+# Before Strong Attack:
+
+message_100:
+   text: >
+    \>プルート：\<\<フン……
+
+# Getting Weaker 50%):
+
+message_101:
+   text: >
+    \>プルート：\<\<……\!ああ。\!そうか。
+
+message_102:
+   text: >
+    \>プルート：\<\<強くなったんだな。
+
+message_103:
+   text: >
+    \>プルート：\<\<だが……\!それは俺も同じだ。
+
+# After Defeat:
+
+message_104:
+   text: >
+    \>プルート：\<\<ふむ。\!よくやった。\!<br>すごく成長したな。
+
+message_105:
+   text: >
+    \>プルート：\<\<だが……\!<br>まだ終わっていないぞ。
+
+# After Victory
+
+message_106:
+   text: >
+    \>プルート：\<\<悪かったな、子供たち。
+
+message_107:
+   text: >
+    \>プルート：\<\<ここまでの成長と頑張りに、拍手を送ろう。
+
+# ============Enemy:  Abbi
+
+# Before Strong Attack:
+
+message_108:
+   text: >
+
+
+# Getting Weaker:
+
+message_109:
+   text: >
+    \>アビー：\<\fn<OMORI_GAME>\quake[1]んぐっ……
+
+# After Defeat:
+
+message_110:
+   text: >
+    \>アビー：\<\fn<OMORI_GAME>\quake[1]おねがい……\!アビーを許して……
+
+# After Victory:
+
+message_111:
+   text: >
+    \>アビー：\<\fn<OMORI_GAME>\quake[1]さようなら……
+
+# ============Enemy:  Slime Girls
+
+# Before Strong Attack:
+
+
+
+message_113:
+   text: >
+
+
+# Getting Weaker (75%):
+
+message_114:
+   text: >
+    \>メデューサ：\<フン……\!思ったよりしぶといですね。
+
+message_115:
+   text: >
+    \>マリーナ：\<ということは～？\!そろそろ本気を出すしかないっしょ！
+
+message_116:
+   text: >
+    \>モリー：\<フフフ……<br>た～のし～！
+
+# Medusa's Special Move (50%):
+
+message_117:
+   text: >
+    \>マリーナ：\<ねぇ、メデューサ！<br>私が考えてること、わかってるよな？
+
+message_118:
+   text: >
+    \>メデューサ：\<ええ、そうですね……\!そろそろ変化球を投げましょうか。
+
+message_119:
+   text: >
+    \>モリー：\<緊張しなくていいよ、ダーリンたち…\!<br>ちっとも痛くないからね～！
+
+# After Defeat:
+
+message_120:
+   text: >
+    \>マリーナ：\<見た目以上に…強いじゃん…
+
+message_121:
+   text: >
+    \>モリー：\<フン……\!ちょっと面倒なことになっちゃってない？
+
+message_122:
+   text: >
+    \>メデューサ：\<はぁ……\!困りましたね……\!ハンフリーのエサをどうしましょう？
+
+# After Victory:
+
+message_123:
+   text: >
+    \>マリーナ：\<私たちのものにな～れ！
+
+message_124:
+   text: >
+    \>モリー：\<<br>し～……泣かないで、ダーリンたち……\!<br>すぐ新しい生活に慣れるからね～！
+
+message_125:
+   text: >
+    \>メデューサ：\<では、まずは小さい子供から解体しましょう。\!二人とも、始めますよ。
+
+# ============Enemy:  Roboheart
+
+# Getting Weaker
+
+message_126:
+   text: >
+    \>ロボハート：\<TXkgbGlmZSBpcyBzdWZmZXJpbmch
+
+# Getting Weaker
+
+message_127:
+   text: >
+    \>ロボハート：\<SGVscC4uLiBtZS4uLgo=
+
+# After Defeat
+
+message_128:
+   text: >
+    \>ロボハート：\<<br>V2h5Pw==
+
+# After Victory
+
+message_129:
+   text: >
+    \>ロボハート：\<Tm8sIEkgZGlkbid0IG1lYW4gdG8h
+
+# ============Enemy:  Mutantheart
+
+# Before Strong Attack:
+
+message_130:
+   text: >
+    \>ミュータントハート：\<\}\sinv[1]んば……？
+
+# Getting Weaker:
+
+message_131:
+   text: >
+    \>ミュータントハート：\<\}\sinv[1]んぶ……？
+
+# After Defeat:
+
+message_132:
+   text: >
+    \>ミュータントハート：\<\}\sinv[1]んぶるるる……
+
+# After Victory:
+
+message_133:
+   text: >
+    \>ミュータントハート：\<\sinv[1]んべぇ！
+
+# ============Enemy:  Perfectheart
+
+# Intro
+
+message_134:
+   text: >
+    \>パーフェクトハート：\<<br>自ら挑んでくるなんて……\!負けても自分を恨むのだわ！
+
+# Getting Weaker (50%):
+
+message_135:
+   text: >
+    \>パーフェクトハート：\<まあ……\!ちょっと強いなのだわ。
+
+message_136:
+   text: >
+    \>パーフェクトハート：\<もうちょっと頑張ってみようかしら。
+
+# Getting Weaker (25%):
+
+message_137:
+   text: >
+    \>パーフェクトハート：\<ん？\!こ、これは……？\!汗、ですって……？
+
+message_138:
+   text: >
+    \>パーフェクトハート：\<あらあら……\!信じられないのだわ。
+
+# After Defeat:
+
+message_139:
+   text: >
+    \>パーフェクトハート：\<ああ。\!負けたのだわ。
+
+message_140:
+   text: >
+    \>パーフェクトハート：\<そうね。\!負けた時は潔く認めるのだわ。
+
+# After Victory:
+
+message_141:
+   text: >
+    \>パーフェクトハート：\<ほらね。後悔すると言ったのだわ。
+
+message_142:
+   text: >
+    \>パーフェクトハート：\<また来るようなバカなことはやめてほしいのだわ。
+
+# ============Enemy:  Hush Puppy
+
+# Before ‘Muffled Scream':
+
+message_143:
+   text: >
+    \>静寂ワンちゃん：\<<br>\}\quake[1]し～……\!静かに……静かに……
+
+# After Defeat
+
+message_144:
+   text: >
+    \>静寂ワンちゃん：\<<br>\}\quake[1]し～～～～……
+
+# ============Enemy:  NEFARIOUS Chip
+
+# Before ‘Cookie Hell':
+
+message_145:
+   text: >
+    \sinv[1]\{じゃじゃ～～～ん！！！\}\sinv[0]<br>焼きたてほやほや！
+
+# Getting Weaker:
+
+message_146:
+   text: >
+    \>極悪チップ：\<マンマミーア……
+
+message_147:
+   text: >
+    \>極悪チップ：\<……\!ここ……\!<br>熱くなってまセ～ン？
+
+# After Defeat:
+
+message_148:
+   text: >
+    \>極悪チップ：\<<br>ワタシはとても悲しいデ～ス……
+
+# After Victory:
+
+message_149:
+   text: >
+    \sinv[1]\{\{ヤッフ～イ！<br>\{\{ワッハ～！\}\}
+
+# ============Enemy:  Biscuit & Doughie
+
+# Getting Weaker (75%):
+
+message_150:
+   text: >
+    \>パンキジ：\<<br>私たちは永遠にパンを焼き続けるしかないんだ……\!ね、ビスケット？
+
+message_151:
+   text: >
+    \>ビスケット：\<<br>\sinv[1]おほぉ～……
+
+# Getting Weaker (50%, Depressed):
+
+message_152:
+   text: >
+    \>パンキジ：\<<br>材料が足りなくなってきたよ！どうしよう、ビスケット！？
+
+message_153:
+   text: >
+    \>ビスケット：\<<br>\sinv[1]おほぉ～～～！！
+
+# Getting Weaker (25%, Miserable):
+
+message_154:
+   text: >
+    \>パンキジ：\<<br>何もかもが足りなくなってきた！\!もうほとんど何も残ってないよ……
+
+message_155:
+   text: >
+    \>ビスケット：\<<br>\sinv[1]おほぉ～……
+
+# After Defeat:
+
+message_156:
+   text: >
+    \>パンキジ：\<<br>全部切れちゃった……\!<br>材料がないよ？どうしよう？
+
+message_157:
+   text: >
+    \>ビスケット：\<<br>\sinv[1]おほぉ～～……
+
+# After Victory:
+
+message_158:
+   text: >
+    \>パンキジ：\<<br>ビスケット！奇跡だよ！\!<br>神様に救われたんだ！
+
+message_159:
+   text: >
+    \>ビスケット：\<<br>\sinv[1]おほぉ～～！！
+
+message_160:
+   text: >
+    \>パンキジ：\<<br>それじゃ、いつもの生活に戻りますか……<br>\sinv[1]焼き立てパン……\!焼き立てパン……\sinv[0]
+
+message_161:
+   text: >
+    \>ビスケット：\<<br>\sinv[1]おほぉ～……
+
+# ============Enemy:  Space Ex-Husband
+
+# Before ‘Calm Down':
+
+message_162:
+   text: >
+    \>スペース元旦那：\<<br>何も感じない……\!我は氷……<br>\!ああ、寒い……
+
+# Getting Weaker (25%):
+
+message_163:
+   text: >
+    \>スペース元旦那：\<<br>
+
+# After Defeat:
+
+message_164:
+   text: >
+    \>スペース元旦那：\<<br>痛みを……\!感じる……
+
+# After Victory:
+
+message_165:
+   text: >
+    \>スペース元旦那：\<<br>何も感じない……\!我は氷……\!<br>ああ、寒い……
+
+# ============Enemy:  Aubrey (Fake Fight):
+
+# After Attack (Knife):
+
+message_166:
+   text: >
+    \>オーブリー：\<\quake[1]うわっ！\quake[0]\!ちょっ、何か……
+
+message_167:
+   text: >
+    \>オーブリー：\<そ、それ……\!ナイフ！？
+
+# ============Enemy:  Charlie
+
+# If Angel gets knocked out:
+
+message_168:
+   text: >
+    \>チャーリー：\<……
+
+# ============Enemy:  Angel
+
+# Before ‘Quick Attack':
+
+message_169:
+   text: >
+    \>エンジェル：\<師匠から授かった新しい技だぞ……<br>\!受け止めてみろ！！
+
+message_170:
+   text: >
+    \sinv[1]\{ふわあ\{あ\{あ！！！
+
+# Getting Weaker:
+
+message_171:
+   text: >
+    \>エンジェル：\<へっ……驚いたぜ、ケル！
+
+message_172:
+   text: >
+    \>エンジェル：\<お前なら師匠のいいライバルになれそうだな！
+
+# After Defeat:
+
+message_173:
+   text: >
+    \>エンジェル：\<うっ……\!お、おまえら……\!<br>覚えてろよ……！
+
+# After Victory:
+
+message_174:
+   text: >
+    \sinv[2]\{ふぇ～ふぇふぇ<br>\{ふぇふぇ！！！
+
+message_175:
+   text: >
+    \>エンジェル：\<師匠の教え通りにやったら楽勝だったぜ！
+
+# ============Enemy:  The Maverick
+
+# Before ‘Charm':
+
+message_176:
+   text: >
+    \>THEマーヴェリック：\<<br>ああ、愚かなケル……\!THEマーヴェリックに<br>指一本触れられるとでも？
+
+# Getting Weaker (75%):
+
+message_177:
+   text: >
+    \>THEマーヴェリック：\<<br>フン……\!悪くない……
+
+message_178:
+   text: >
+    \>THEマーヴェリック：\<<br>だが、戦いはまだ始まったばかり！！
+
+# Getting Weaker (60%):
+
+message_179:
+   text: >
+    \>THEマーヴェリック：\<<br>ハッ、さすがは我が好敵手！
+
+message_180:
+   text: >
+    \>THEマーヴェリック：\<<br>だが……\!貴様がスポーツなんかに時間を費やしていた間に……
+
+message_181:
+   text: >
+    \>THEマーヴェリック：\<<br>私はこの時のために技を鍛え続けたのだよ。
+
+message_182:
+   text: >
+    \>THEマーヴェリック：\<<br>私の技を目で追うだけでも精いっぱいだろうな！
+
+message_183:
+   text: >
+    \>THEマーヴェリック：\<<br>ケル！惨敗する覚悟をしたまえ！
+
+# Getting Weaker (50%):
+
+message_184:
+   text: >
+    \>THEマーヴェリック：\<<br>ハッ！もう終わりなのかね！？
+
+message_185:
+   text: >
+    \>THEマーヴェリック：\<<br>私はまだまだ力の一割しか使っていないのだよ！
+
+message_186:
+   text: >
+    \>THEマーヴェリック：\<<br>刮目せよ……\!我が最終形態を！！
+
+# Getting Weaker (40%):
+
+message_187:
+   text: >
+    \>THEマーヴェリック：\<<br>そろそろ後悔してるな！私に挑んだことを！
+
+message_188:
+   text: >
+    \>THEマーヴェリック：\<<br>私に勝てるはずもなかったのだよ……
+
+message_189:
+   text: >
+    \>THEマーヴェリック：\<<br>負け犬が！
+
+# Getting Weaker (30%):
+
+message_190:
+   text: >
+    \>THEマーヴェリック：\<<br>そろそろ……\!ぜぇ……\!<br>疲れてきたのではないかね！
+
+message_191:
+   text: >
+    \>THEマーヴェリック：\<<br>私の勝利は約束されているのだよ！
+
+# Getting Weaker (20%):
+
+message_192:
+   text: >
+    \>THEマーヴェリック：\<<br>ぜぇ……\!認めよう……\!<br>貴様らの強さには少し感心したのだよ……\!<br>だが私を倒すのは百万光年早いのだよ！
+
+# Getting Weaker (10%):
+
+message_193:
+   text: >
+    \>THEマーヴェリック：\<<br>\quake[1]ぜぇ……\!ぜぇ……
+
+message_194:
+   text: >
+    \>THEマーヴェリック：\<<br>バカな……\!<br>ありえない！\!ありえるはずもない！
+
+message_195:
+   text: >
+    \>THEマーヴェリック：\<<br>\quake[1]まったくもって信じられないのだよ！
+
+# After Defeat:
+
+message_196:
+   text: >
+    \>THEマーヴェリック：\<<br>\quake[1]ぜぇ……\!ぜぇ……\!ぜぇ……\!ひぃ……
+
+message_197:
+   text: >
+    \>THEマーヴェリック：\<<br>\quake[1]ぜぇ……\!ぜぇ……\!ひぃ……
+
+message_198:
+   text: >
+    \>THEマーヴェリック：\<<br>ぐっ……\!いや……\!<br>このまま終わらせるわけには……！
+
+# After Victory:
+
+message_199:
+   text: >
+    \>THEマーヴェリック：\<<br>あれ……\!勝ったの？\!じゃなくて……
+
+message_200:
+   text: >
+    \>THEマーヴェリック：\<<br>予想通りすぎて笑えるな！ハッハッハッ！\!<br>身を震わせて私を崇めるがいい！
+
+# ============Enemy:  Kim
+
+# Before ‘Big Punch':
+
+message_201:
+   text: >
+    \>キム：\<<br>その顔がムカつくんだよ！
+
+# Getting Weaker:
+
+message_202:
+   text: >
+    \>キム：\<<br>そっちの方がデカいからって調子に乗んなよ！\!モヤシになんて負けるもんか！
+
+# After Defeat:
+
+message_203:
+   text: >
+    \>キム：\<<br>ぐぬぬ……ぐぬぬぬぬ……\!<br>アンタら……モヤシのくせに……！
+
+# After Victory:
+
+message_204:
+   text: >
+    \>キム：\<<br>へっ……勝てっこないってわかっただろ。
+
+# ============Enemy:  Vance
+
+# Before ‘Candy Throw':
+
+message_205:
+   text: >
+    \>ヴァンス：\<<br>十年ぐらい放置した飴玉をくらえ！
+
+# Getting Weaker:
+
+message_206:
+   text: >
+    \>ヴァンス：\<うがっ……\!いってえなおい。
+
+# After Defeat:
+
+message_207:
+   text: >
+    \>ヴァンス：\<くっ……\!キャラメル食べたかっただけなのによ。
+
+# After Victory:
+
+message_208:
+   text: >
+    \>ヴァンス：\<で……\!そろそろキャラメルもらっていい？
+
+# ============Enemy:  Aubrey (Church):
+
+# Before ‘Power Hit':
+
+message_209:
+   text: >
+    \>オーブリー：\<<br>ケル……\!\n[8]……\!<br>もう遅いんだよ！
+
+message_210:
+   text: >
+    \>オーブリー：\<<br>二人なんか、もうどうでもいいんだよ！
+
+# Getting Weaker (25%):
+
+message_211:
+   text: >
+    \>オーブリー：\<<br>何しに来たんだよ！
+
+message_212:
+   text: >
+    \>オーブリー：\<<br>何で……\!何で、今来たの？
+
+# After Defeat:
+
+message_213:
+   text: >
+    \>オーブリー：\<<br>ぐっ……
+
+message_214:
+   text: >
+    \>オーブリー：\<<br>もういい……\!<br>アンタたちに構ってる暇はないんだよ。
+
+# After Victory:
+
+message_215:
+   text: >
+    \>オーブリー：\<<br>フン。
+
+message_216:
+   text: >
+    \>オーブリー：\<<br>ざまあみろ。
+
+message_217:
+   text: >
+    \>オーブリー：\<<br>ケル……\!もうほっといて。
+
+# ============Enemy:  Aubrey & Scooter Squad (Lake):
+
+# Getting Weaker (75%):
+
+message_218:
+   text: >
+    \>エンジェル：\<この時のために師匠といっぱい修行してきたんだぞ！
+
+message_219:
+   text: >
+    \>THEマーヴェリック：\<二度と私たちをバカにできないようにしてやるのだよ！
+
+message_220:
+   text: >
+    \>ヴァンス：\<キム……暴れる準備はできたか？
+
+message_221:
+   text: >
+    \>キム：\<おう、ヴァンス！\!このモヤシたちをボッコボコにしてやる！
+
+# Getting Weaker (50%):
+
+message_222:
+   text: >
+    \>THEマーヴェリック：\<エンジェル！訓練を忘れるなよ！弱さを強さに変えたまえ！
+
+message_223:
+   text: >
+    \>エンジェル：\<オッス、師匠！<br>ガッカリはさせません！
+
+# Getting Weaker (25%):
+
+message_224:
+   text: >
+    \>ヴァンス：\<キム、大丈夫か？
+
+message_225:
+   text: >
+    \>キム：\<ぜぇ……\!ぜぇ……\!ハッ！\!心配すんな、ヴァンス……まだまだこれからだよ！
+
+# Before ‘Hooligan Strong Energy':
+
+message_226:
+   text: >
+    \{\sinv[2]くらえ、モヤシ野郎！！！
+
+# After Defeat:
+
+message_227:
+   text: >
+    \>THEマーヴェリック：\<ぜぇ……\!ぜぇ……\!<br>そんな……\!<br>こんなことってありえるのか……？
+
+message_228:
+   text: >
+    \>エンジェル：\<えっ……\!そんな、バカな！？
+
+message_229:
+   text: >
+    \>キム：\<あたしたちが負けるなんて……
+
+message_230:
+   text: >
+    \>ヴァンス：\<キム……腹減った。\!<br>もう帰っていいか？
+
+message_231:
+   text: >
+    \>オーブリー：\<………………
+
+# After Victory:
+
+message_232:
+   text: >
+    \>THEマーヴェリック：\<ぜぇ……\!ぜぇ……\!<br>そんな……\!<br>こんなことってありえるのか……？
+
+
+message_233:
+   text: >
+    \>エンジェル：\<勝った！勝ちましたよ、師匠！
+
+message_234:
+   text: >
+    \>キム：\<フン！ざまあみろ。
+
+message_236:
+   text: >
+    \>ヴァンス：\<キム……腹減った……なんか食いに行こうぜ。
+
+message_237:
+   text: >
+    \>オーブリー：\<……\!ハッ。
+
+message_238:
+   text: >
+    \>オーブリー：\<ケル……\!\n[8]……\!<br>さっさと失せろ。
+
+
+# ============Enemy:  Basil
+
+message_239:
+   text: >
+    \>バジル：\fn<OMORI_GAME>\n[8]くん……
+
+message_240:
+   text: >
+    \>バジル：\<\fn<OMORI_GAME><br>もう逃げ場なんて、ないよね？
+
+message_244:
+   text: >
+    \>バジル：\<\fn<OMORI_GAME><br>ねぇ\n[8]くん、教えて……
+
+message_245:
+   text: >
+    \>バジル：\<\fn<OMORI_GAME><br>ぼく、こんなことして、ワガママなのかな？
+
+message_249:
+   text: >
+    \>バジル：\<\fn<OMORI_GAME><br>ぼくのこと、嫌いになった？
+
+message_250:
+   text: >
+    \>バジル：\<\fn<OMORI_GAME><br>\n[8]くん……
+
+message_251:
+   text: >
+    \>バジル：\<\fn<OMORI_GAME><br>おねがい……\!やめて……
+
+message_252:
+   text: >
+    \>バジル：\<\fn<OMORI_GAME><br>\quake[1]どうして！？\!どうして<br>やめてくれないの！？
+
+message_254:
+   text: >
+    \>バジル：\<\fn<OMORI_GAME><br>もう、もがかないで。<br>\n[8]くん。
+
+message_255:
+   text: >
+    \>バジル：\<\fn<OMORI_GAME><br>ぼく……\!疲れた……
+
+# ============Enemy:  The Recyclepath
+
+# Before ‘Summoning':
+
+message_256:
+   text: >
+    \>リサイクルサイコ：\<<br>同志よ、集え！<br>ホーリーゴミバコ様がお呼びだ！
+
+# Before ‘Throw Trash':
+
+message_257:
+   text: >
+    \>リサイクルサイコ：\<<br>リサイクルしない人間は消えろ！
+
+message_258:
+   text: >
+    \>リサイクルサイコ：\<<br>ゴムテブクロ様の力があらんことを！
+
+# Getting Weaker:
+
+message_259:
+   text: >
+    \>リサイクルサイコ：\<<br>天上のホーリーゴミバコ様よ……
+
+message_260:
+   text: >
+    \>リサイクルサイコ：\<<br>敵をリサイクルする大いなる力を！
+
+# After Defeat:
+
+message_261:
+   text: >
+    \>リサイクルサイコ：\<<br>ホーリーゴミバコ様！何故です！
+
+message_262:
+   text: >
+    \>リサイクルサイコ：\<<br>我々を見捨てるというのですか！？
+
+# After Victory:
+
+message_263:
+   text: >
+    \>リサイクルサイコ：\<<br>喜べ！勝利のホーリーゴミバコ様が微笑んでくれたぞ！
+
+message_264:
+   text: >
+    \>リサイクルサイコ：\<<br>ホーリーゴミバコ様万歳！
+
+# ============Enemy:  Extras
+
+# Space Ex-Boyfriend Return to ANGRY
+
+message_265:
+   text: >
+    \>スペース元カレ：\<<br>我が怒りは誰にも鎮められん……<br>慰めようとしても無駄である！
+
+# Sweetheart Return to HAPPY
+message_266:
+   text: >
+    \>スイートハート：\<<br>無駄なのだわ、この大バカ者！\!このノリノリムードは誰にも止められないのだわ！
+
+# Biscuit and Doughie Return to SAD
+message_267:
+   text: >
+    \>パンキジ：\<\sinv[1]<br>焼き立てパン……\!焼き立てパン……\!<br>毎日毎日焼き立てパン……
+
+message_268:
+   text: >
+    \>ビスケット：\<\sinv[1]<br>おほぉ～～～……
+
+# Perfectheart Hitting an emotion weakness
+message_269:
+   text: >
+    \>パーフェクトハート：\<\sinv[1]甘いわね……\sinv[0]\!感情を顔に出しすぎると、読まれやすくなるだけなのだわ。
+
+# Snow Angel Pierce Heart Skill
+message_270:
+   text: >
+    \>スノーエンジェル：\<\quake[1]死を免れぬ者に神を欺けるわけもなく……
+
+# Hush Puppy Muffled Scream
+message_271:
+   text: >
+    \>静寂ワンちゃん：\<\quake[1]\}んっ……\! んふ……\!<br>ふんふ……\!\quake[1]んんんんむっ！！！\quake[0]
+
+# ============Enemy:  Humphrey
+# Humphrey Swarm Intro
+message_272:
+   text: >
+    \>ハンフリー: \<\sinv[1]<br>ご～は～ん！ご～は～ん！<br>皆殺しのじ～か～ん！
+
+# Before transforming into a lump
+message_273:
+   text: >
+    \>ハンフリー：\<\sinv[1]最終戦は始まったばかりだよぉ！\|一つになって頑張るボクたちに勝てるかなぁ？
+
+# Before swallow 1
+message_274:
+   text: >
+    \>ハンフリー：\<\sinv[1]わ～にんぐぅ！わ～にんぐぅ！<br>これから臭くなっちゃうぞぉ！\|<br>今からお腹の中にご招待するよぉ！
+
+# Before swallow 2
+message_275:
+   text: >
+    \>ハンフリー：\<\sinv[1]遅かれ早かれぇ……\|<br>もがくほど深くまで沈んじゃうよぉ！
+
+# Before Swallow 3
+message_276:
+   text: >
+    \>ハンフリー：\<\sinv[1]はぁい、リラックスしてぇ……<br>何も怖くないよぉ。ねぇねぇオモリくん、<br>ちょっと息苦しくなったねぇ？
+
+# Before Swallow 4
+message_277:
+   text: >
+    \>ハンフリー：\<\sinv[1]肉料理って楽しいんだよぉ！\|<br>ど～れ～に～し～よ～か～なぁ～？<br>レア？ミディアム？ウェルダン？
+
+# Before Swallow (Generic 1)
+message_278:
+   text: >
+    \>ハンフリー：\<\sinv[1]もじもじしても無駄だよぉ。<br>諦めた方がいいと思うよぉ。\|<br>ずっとこれの繰り返しだからぁ。
+
+# Before Swallow (Generic 2)
+message_279:
+   text: >
+    \>ハンフリー：\<\sinv[1]もうもじもじしないでぇ。<br>知らぬが仏って言うだろぉ？\|<br>何回言えばわかるのぉ？
+
+#Before Humphrey Abort
+message_323:
+   text: >
+    \>ハンフリー：\<<br>\sinv[1]好きに暴れていいよぉ。だってぇ……\|<br>どう頑張っても逃げられないからぁ！
+
+# Uvula Intro
+message_280:
+   text: >
+    \>ハンフリー：\<<br>勝てっこないよぉ！
+
+#Uvula Shit Talk
+message_281:
+   text: >
+    \>ハンフリー：\<<br>へっへぇ！ボクったら最強だねぇ！
+
+# ============Enemy:  Fears
+
+# ============Enemy:  Fear of Heights
+
+# Getting the \n[8]s attention
+
+message_282:
+   text: >
+    \>???: \<<br>\n[8]……
+
+# Encouragement
+
+message_283:
+   text: >
+    \>???: \<<br>深呼吸して……\!怖がらないで。<br>\!あなたが思うほど怖くはないはずよ。
+
+# \n[8] gains CALM DOWN
+message_284:
+   text: >
+    呼吸を整え、「落ち着く」を思い出した。
+
+# CALM DOWN reminder
+
+message_285:
+   text: >
+    \>???: \<<br>思い出して、\n[8]……\!落ち着いたら大丈夫だから……
+
+# ============Enemy:  Fear of Bugs
+
+# Getting the \n[8]'s attention
+message_286:
+   text: >
+    \>???: \<<br>ずっと足踏みしてるんじゃない、\n[8]？
+
+# Encouragement
+message_287:
+   text: >
+    \>???: \<<br>いろいろあったもんね……
+
+message_288:
+   text: >
+    \>???: \<<br>くよくよ悩まないで……\!何が大事なのか、<br>しっかり見分けて、それに集中して！
+
+# \n[8] gains FOCUS
+message_289:
+   text: >
+    雑念を捨て、「集中」を思い出した。
+
+# CALM DOWN before FOCUS reminder
+message_290:
+   text: >
+    \>???: \<<br>イライラしてると集中しづらいよね。\!<br>忘れずしっかり深呼吸して……
+
+# ============Enemy:  Fear of Drowning
+
+# CALM DOWN reminder.
+message_291:
+   text: >
+    \>???: \<<br>心を落ち着かせて……\!怖がらないで。<br>\!あなたが思うほど怖くはないはずよ。
+
+# Encouragement
+message_292:
+   text: >
+    \>???: \<<br>キミは前に進まなきゃいけないんだ。\!<br>諦めないで。\!<br>たとえ無理だと感じる時でも……
+
+# \n[8] gains PERSIST
+message_293:
+   text: >
+    声がする方へ手を伸ばし、「踏ん張る」を思い出した。
+
+# BASIL is struggling
+message_294:
+   text: >
+    バジルが水の中でバタバタしているのを感じる……<br>動けない……！
+
+# BASIL falls unconscious
+message_295:
+   text: >
+    バジルは動かなくなった。
+
+# ============Tutorial SPROUT MOLES
+# ANGRY MOLE
+message_296:
+   text: >
+    \>ヒロ:\<<br>ほら、苗モグラが「いらいら」してる！\!<br>ぼくらと同じように、苗モグラにも<br>感情があるんだ。
+
+message_297:
+   text: >
+    \>ヒロ：\<<br>この苗モグラは今「いらいら」状態だから、<br>攻撃力が上がってるんだ。
+
+message_298:
+   text: >
+    \>ヒロ：\<<br>その代わり、防御力が下がってるよ！
+
+
+message_299:
+   text: >
+    \>オーブリー：\<<br>つまり攻撃のチャンスってことね！\!<br>行くよ、オモリくん！\!やっつけよう！
+
+# HAPPY MOLE
+message_300:
+   text: >
+    \>ヒロ：\<<br>おっ！\!なるほど……\!この苗モグラは<br>「にこにこ」してるね！
+
+message_301:
+   text: >
+    \>ヒロ：\<<br>この状態だと、攻撃が弱点に当たりやすく<br>なり、大ダメージを与える可能性が<br>高くなるんだ。
+
+message_302:
+   text: >
+    \>ヒロ：\<<br>その代わり、命中率が下がるよ！
+
+# SAD MOLE
+message_303:
+   text: >
+    \>ヒロ：\<<br>ふむ……\!この苗モグラは「しょんぼり」状態だね……\!<br>ほら、ひざを抱えて、かわいそうに……
+
+message_304:
+   text: >
+    \>ヒロ：\<<br>この状態だと攻撃力が下がるけど…<br>その代わり、ハートへのダメージを<br>ジュースが一部肩代わりするよ。
+
+message_305:
+   text: >
+    \>ケル：\<<br>かわいそうなやつだな……\!泣く元気もなく<br>なるぐらいボコボコにしちゃえ！
+
+# YE OLD SPROUT MOLE
+message_306:
+   text: >
+    \>ヒロ：\<<br>オモリ、いつもと違うところに気づいた？
+
+message_307:
+   text: >
+    \>ヒロ：\<<br>画面の下の方に新しくメーターが出てるよね。<br>横に数字が書いてあるけど、見える？
+
+message_308:
+   text: >
+    \>ヒロ：\<<br>これは俺たち全員の「やる気」だ！
+
+message_309:
+   text: >
+    \>ヒロ：\<<br>「やる気」を使えば、協力してエネミーを<br>倒せるよ！\!「攻撃」をしてみて！
+
+message_310:
+   text: >
+    \>ヒロ：\<<br>攻撃の時に吹き出しが出ただろう？\!それは、<br>「畳みかけ」だ！
+
+message_311:
+   text: >
+    \>ヒロ：\<<br>「攻撃」をしたあと、一定時間内に「やる気」を使って「畳みかけ」ができるんだ。
+
+message_312:
+   text: >
+    \>ヒロ：\<<br>好きな方向キーを押して、何が起きるか<br>よく見てみよう！
+
+message_313:
+   text: >
+    \>ヒロ：\<<br>フゥ……\!こいつは……\!<br>なかなか手強いね。
+
+message_314:
+   text: >
+    \>ヒロ：\<<br>攻撃された時、やる気が増えたことに気がついた？
+
+message_315:
+   text: >
+    \>ヒロ：\<<br>俺たちがダメージを受けると、同時にやる気が上がるんだ！\!<br>仕返しのチャンスってところだな！
+
+message_316:
+   text: >
+    \>ヒロ：\<<br>よし……やる気がいっぱいになった！\!必殺技を出す絶好のチャンスだな！
+
+message_317:
+   text: >
+    \>ヒロ：\<<br>オモリ……\!君が攻撃したあと、\DII[down]キーを押して「やる気解放」をしてみよう！
+
+message_318:
+   text: >
+    \>ヒロ：\<<br>準備はできたかな？
+
+message_319:
+   text: >
+    \>ヒロ：\<<br>それじゃ、みんな……<br>俺たちの強さを見せつけてやろう！
+
+# ============Fears extra
+message_320:
+   text: >
+    なにかが下に引っ張っている……
+
+message_321:
+   text: >
+    背筋がゾクゾクした……
+
+message_322:
+   text: >
+    暗闇をかき分けるように上を泳いだ……
+
+message_340:
+   text: >
+    \>???: \<\n[8]……\!たまには怖がってもいいんだよ。
+
+message_341:
+   text: >
+    \>???: \<ずっとそばにいるよ。\!<br>深呼吸して、目を開けて。
+
+
+message_344:
+   text: ヨミジャムオはあなたがヨミジャムを使うのを待ってくれている。
+
+message_345:
+   text: ヨミジャムオはあなたがヨミジャムを使うのを待ってくれている。
+
+message_346:
+   text: ヨミジャムオはあなたがヨミジャムを使うのを待ってくれている。
+
+message_347:
+   text: >
+    \>ヨミジャムオ：\<\c[3]ヨミジャム\c[0]を使ってくれよな！\!<br>本当に効くんだぞ！
+
+
+# =========================================================================================
+# Battle Quotes: SW
+# =========================================================================================
+
+message_350:
+   text: >
+    ハロルドは\v[1001]EXPを手に入れた！
+
+message_351:
+   text: >
+    ハロルドはレベルアップした！
+
+message_352:
+   text: >
+    ルキウスは\v[1001]EXPを手に入れた！
+
+message_353:
+   text: >
+    ルキウスはレベルアップした！
+
+message_354:
+   text: >
+    マーシャは\v[1001]EXPを手に入れた！
+
+message_355:
+   text: >
+    マーシャはレベルアップした！
+
+message_356:
+   text: >
+    テレーゼは\v[1001]EXPを手に入れた！
+
+message_357:
+   text: >
+    テレーゼはレベルアップした！
+
+# message_358:
+#    text: >
+#     MARSHA's party rolls initiative...
+
+# message_359:
+#    text: >
+#     LUCIUS's party rolls initiative...
+
+message_360:
+   text: >
+    \v[1003]のパーティーはイニシアチブロールをした……
+
+# message_361:
+#    text: >
+#     THERESE's party rolls initiative...
+
+message_362:
+   text: >
+    20！クリティカルだ！\v[1003]のパーティーが優勢に立った！
+
+message_363:
+   text: >
+    1！ファンブルだ！オモリのパーティーが優勢に立った！
+
+message_364:
+   text: >
+    \v[1002]！どっちが勝つか予想がつかない！
+
+# =========================================================================================
+# Battle Quotes: DW
+# =========================================================================================
+
+message_400:
+   text: >
+    \>ワニエージェント：\<何勝手に持ち場を離れてんだ！\!さっさと仕事に戻れ！
+
+message_401:
+   text: >
+    \>ワニエージェント：\<もう来たのかよ！\!また懲らしめてやろうか！
+
+message_402:
+   text: >
+    \>ワニエージェント：\<おい、そこまでだ！\!鮫羽田社長は、お前の顔なんて見たくねえんだよ。
+
+message_403:
+   text: >
+    \>ワニエージェント：\<いいか小僧……今度こそ行かせねえからな。
+
+message_404:
+   text: >
+    \>ワニエージェント：\<この問題児が……\!今度は何やらかしたんだ？
+
+message_405:
+   text: >
+    \>ワニエージェント：\<お前ら、もうわかってるよな。\!消す。
+
+message_406:
+   text: >
+    \>ワニエージェント：\<何でいるんだよ！？契約違反だぞ！
+
+message_407:
+   text: >
+    \>ワニエージェント：\<クソガキが増えてる！？社長が知ったら何て言われるか！？
+
+message_408:
+   text: >
+    \>ワニエージェント：\<また増えてる！？社長が知ったら何て言われるか！？
+
+message_409:
+   text: >
+    \>ワニエージェント：\<また職務放棄か？今度こそヤバいと思うぞ……ケッケッケッ……
+
+message_410:
+   text: >
+    \>ワニエージェント：\<お前もそろそろ追い出されるのに飽きてきたんじゃね？
+
+message_411:
+   text: >
+    \>ワニエージェント：\<おいガキ！\v[1001]アサリくれたら手柔らかに行くぜ。
+
+message_412:
+   text: >
+    \>ワニエージェント：\<まいどありぃ。
+
+message_413:
+   text: >
+    \>ワニエージェント：\<おっとっと……<br>わりぃけど、足りないようだなぁ？
+
+message_414:
+   text: >
+    \>ワニエージェント：\<おっとっと……そいつぁ残念だったな！
+
+# ============PLUTO EXPANDED
+# =====After Using Flex
+message_415:
+   text: >
+    \>プルート:\<素晴らしいぞ、ケル！\!<br>お前の\c[1]筋肉自慢\c[0]は、大きく成長したな！
+
+# ============SPROUT MOLE EATER
+# =====Summoning and eating sprout moles
+message_416:
+   text: >
+    苗モグラが現れた！
+
+message_417:
+   text: >
+    キングクローラーは苗モグラを食べた！
+
+# ============JUNKYARD EXTRA
+
+message_418:
+   text: >
+    ケルはゴミを漁っている。
+
+message_419:
+   text: >
+    ケルは何も見つけられなかった。
+
+message_420:
+   text: >
+    ケルは\c[5]空き缶\c[0]を見つけた！
+
+message_421:
+   text: >
+    ケルは\c[3]とうふ\c[0]を見つけた。
+
+message_422:
+   text: >
+    ケルは\c[5]輪ゴム\c[0]を見つけた！
+
+message_423:
+   text: >
+    ケルは\c[3]チョコレート\c[0]を見つけた！
+
+message_424:
+   text: >
+    ケルは\c[3]チェリーソーダ\c[0]を見つけた！
+
+message_425:
+   text: >
+    ケルはスロットをやっている。
+
+message_426:
+   text: >
+    ケルは\v[1002]アサリ当たった！
+
+message_427:
+   text: >
+    ケルは\v[1002]アサリを失った……
+
+# =========================================================================================
+# Battle Quotes: DW
+# =========================================================================================
+
+
+message_446:
+   text: >
+    \>ボス：\<\sinv[1]ヘッヘッヘッ！\sinv[0]\!<br>柔らけぇな！\!攻撃する気あんのか！？
+
+message_447:
+   text: >
+    \>ボス：\<おい、今のちょっと痛かったぞ！\!フン！\!あ～あ、つまんねぇな。
+
+message_448:
+   text: >
+    \>ボス：\<ぐぅ……\!<br>怒ったぞ……
+
+message_449:
+   text: >
+    \>ボス：\<必殺技だ！受けてみろ！
+
+message_450:
+   text: >
+    \{\{\sinv[1]\quake[1]体当たりぃ！！\sinv[0]
+
+message_445:
+   text: >
+    \>ボス：\<はぁ！？\!何でまだ動けんだ！？
+
+# ============SWEETHEART
+message_451:
+   text: >
+    \sinv[1]\{おお、ヒロ！<br>ワタシのヒロ！！\}
+
+message_452:
+   text: >
+    \sinv[1]\{そのステキな笑顔、<br>気に入ったのだわ！\}
+
+message_453:
+   text: >
+    \sinv[1]\{ワタシのものに<br>してやるのだわ！！\}
+
+# ============HERO AFRAID OF SPIDER BUNNY
+message_454:
+   text: >
+    ヒロはクモにおびえている！
+
+# ============SWEETHEART DONUT
+message_455:
+   text: >
+    よくもまあ、ワタシの前で\c[3]ドーナツ\c[0]を食べたのだわ！
+
+# ============MUSSEL KEL FLEX
+message_456:
+   text: >
+    ムキムキイガイはケルの\c[1]筋肉自慢\c[0]を見て劣等感を覚えている……。
+# ============HUMPHREY POISON
+message_457:
+   text: >
+    胃酸の雨が降り注ぐ……。
+
+message_458:
+   text: >
+    胃酸の雨だ！
+
+# ============Uvula Shit Talk
+message_459:
+   text: >
+    \>ハンフリー:食べ物でしかないんだからさぁ、食べさせてよぉ！
+
+message_460:
+   text: >
+    \>ハンフリー：食べ物の分際で攻撃しないでよぉ。\!効かないよぉ！
+
+message_461:
+   text: >
+    \>ハンフリー：これだから食べ物で遊んじゃダメなんだよなぁ。
+
+message_462:
+   text: >
+    \>ハンフリー：じゅるじゅるり……\!<br>ごはんの時間だぁ！
+
+message_463:
+   text: >
+    \>ハンフリー：この世界は弱肉強食なんだよぉ。\!知ってたぁ？\!生物学の授業で勉強しなかったぁ？
+
+message_464:
+   text: >
+    \>ハンフリー：消化されるまでしばらく待っててねぇ。\!ちょっと列ができちゃってるからぁ。
+
+message_465:
+   text: >
+    \>ハンフリー：他に誰も抗ってないんだよぉ？\!食べ物らしく大人しくしてぇ！
+
+# ============Kite Kid Repair
+message_469:
+   text: >
+    カイトキッドはキッドを修理した。
+
+# ============Kite Kid Wind
+message_470:
+   text: >
+    風が吹き荒れている。
+
+message_471:
+   text: >
+    ちょうどいい風が吹いている。
+
+message_472:
+   text: >
+    弱い風が吹いている。
+
+# =========================================================================================
+# HANGING BODY SOMETHING
+# =========================================================================================
+
+message_501:
+   text: >
+    めまいがする。
+
+message_502:
+   text: >
+    胸が詰まり、息苦しくなってきた。
+
+message_503:
+   text: >
+    不安で胃が重くなって気持ち悪い。
+
+message_504:
+   text: >
+    心臓がバクバクして胸が張り裂けそうだ。
+
+message_505:
+   text: >
+    指の震えが止まらない。
+
+message_506:
+   text: >
+    ひざがガクガクしだした。
+
+message_507:
+   text: >
+    額に汗が伝うのを感じる。
+
+message_508:
+   text: >
+    瞼が重い。
+
+message_509:
+   text: >
+    自分の心臓の音が聞こえる。
+
+message_510:
+   text: >
+    自分の息が整ってきたのを感じる。
+
+message_511:
+   text: >
+    脈拍が落ち着くのを感じる。
+
+message_512:
+   text: >
+    勇気を振り絞って……\!<br>新たに「乗り越える」を覚えた。
+
+# =========================================================================================
+# FEAR REFIGHTS
+# =========================================================================================
+
+# ============FEAR OF FALLING COUNTDOWN
+message_520:
+   text: >
+    落ちていく。
+
+message_521:
+   text: >
+    残り\v[1001]ターンだ……
+
+message_522:
+   text: >
+    地面に落ちた。
+
+# ============FEAR OF FALLING COUNTDOWN
+message_525:
+   text: >
+    部屋が水で満ちていく。
+
+message_526:
+   text: >
+    うまく息ができない。
+
+
+# =========================================================================================
+# BATTLE QUOTES (FA)
+# =========================================================================================
+
+# ============AUBREY CHURCH
+
+message_540:
+   text: >
+    \}あの服を見て……\|教会に来る服じゃないでしょ……
+
+message_541:
+   text: >
+    \}教会に武器を持ち込むなんて……<br>\|何て野蛮な子……
+
+message_542:
+   text: >
+    \}不良がこんなところで何をしてるんだ？\|ここは神聖な場所なんだぞ！
+
+message_543:
+   text: >
+    \}誰か止めてよ……\|親はどこ？
+
+message_544:
+   text: >
+    \}あの女の子はこの町にとっての脅威だ。\|神様でもあんな子を救えやしない！
+
+message_545:
+   text: >
+    \}前から嫌な感じな子だと思ったの……\|ずっと前に追い出すべきだったよ。
+
+message_546:
+   text: >
+    \}最近の子供は礼儀を知らないみたいだな……\|<br>うちの子にはしっかり教えなければ。
+
+# ============PEPPER SPRAY
+message_547:
+   text: >
+    \>チャーリー: \<！！！
+
+message_548:
+   text: >
+    \>エンジェル：\<\quake[1]うがああ！！目が！目がぁ！<br>\!師匠！前が見えませ～ん！！
+
+message_549:
+   text: >
+    \>THEマーヴェリック：\<\quake[1]ぜぇ……\!はひぃ……\!卑劣な……！
+
+message_552:
+   text: >
+    \>ヴァンス：\<いってっ……いってぇな……
+
+message_551:
+   text: >
+    \>キム：\<はぁ！？何だ、これ！？<br>\!\c[5]唐辛子スプレー\c[0]？\!マジで言ってんの！？
+
+
+message_553:
+   text: >
+    \>オーブリー:ぐっ……\!最悪……
+
+# =========================================================================================
+# Epliouge Extra Fights
+# =========================================================================================
+
+# ============PLUTO EXPANDED
+
+# Start
+message_600:
+   text: >
+    \>プルート：\<これが最終決戦だ。\!全力の姿を見せてみろ。
+
+# At 50% HP
+message_601:
+   text: >
+    \>プルート：\<ああ……\!子供だからと侮ってしまったな。
+
+# After Earth Finale
+message_602:
+   text: >
+    \>プルート：\<ここまで俺を追い込む者は少ない……\!五体満足の状態で終えられた者はもっと少ない。
+
+message_603:
+   text: >
+    \>プルート：\<勝利以外何も求めぬ！\!<br>我が決意を見せてやる！
+
+# Turn 1 of charging
+message_604:
+   text: >
+    \>プルート：\<子供たちよ……会えてうれしかった……\!ここまで成長したとはな。
+
+# Turn 2 of charging
+message_605:
+   text: >
+    \>プルート：\<君たちの強さを認めよう……\!子ども扱いはもうしない。
+
+message_606:
+   text: >
+    \>プルート：\<この戦いは俺のものだ……\!逃げられはしないぞ！
+
+# Before Meteor
+message_607:
+   text: >
+    \>プルート：\<来世でまた会おう。\!さらばだ。
+
+# Charging
+message_608:
+   text: >
+    プルートは必殺技のパワーを溜め始めた！
+
+message_609:
+   text: >
+    プルートは必殺技のパワーを溜めている！
+
+message_610:
+   text: >
+    プルートは必殺技のパワーを溜め切った！
+
+# Pluto Victory
+message_611:
+   text: >
+    \>プルート：\<しょんぼりするでない。\!最後まで相手として不足はなかった。
+
+# Pluto Defeat
+message_612:
+   text: >
+    \>プルート：\<信じられない……\!<br>俺のフルパワーを正面から受けても<br>立つか……\!俺の負けだ。
+
+message_615:
+   text: >
+    \>プルート：\<君たちといい戦いができたことを誇りに思う。\!その勝利も認めざるを得ない。
+
+# Pluto's presence
+message_613:
+   text: >
+    プルートの筋肉美がまぶしすぎて怖気づいた！
+
+message_614:
+   text: >
+    「しょんぼり」状態の人は弱体化した。
+
+# ============Kite Kid Epilouge
+message_620:
+   text: >
+    \>カイトキッド:\<僕たちは、風と一つだ！
+
+message_621:
+   text: >
+    \>カイトキッド：\<風が吹き続ける限り、僕たちは無敵だよ！
+
+# ============Space Ex-Husband
+# An image appears
+message_630:
+   text: >
+    \>スペース元旦那:\<<br>ああ、何ということだ。<br>我が目前に思い出が見える！
+
+# Happy Memories
+message_631:
+   text: >
+    \>スペース元旦那：\<<br>我……そして我が愛しいスイートハート……\!彼女のための輝かしいステージで<br>口づけを！
+
+message_632:
+   text: >
+    \>スペース元旦那：\<<br>我……そして我が愛しいスイートハート……\!一緒に夜空を眺めている！
+
+message_633:
+   text: >
+    \>スペース元旦那：\<<br>我……そして我が愛しいスイートハート……\!お互いの瞳を見つめ合っている！
+
+# Sad Memories
+message_634:
+   text: >
+    \>スペース元旦那：\<<br>我が……一人で……\!<br>\c[4]特別なミックステープ\c[0]を捨てている……
+
+message_635:
+   text: >
+    \>スペース元旦那：\<<br>我が……一人で……\!キングサイズのベッドで丸まって泣いてる……
+
+message_636:
+   text: >
+    \>スペース元旦那：\<<br>我が……一人で……\!愛しいスイートハートの写真を見ている……
+# Angry Memories
+message_637:
+   text: >
+    \>スペース元旦那：\<<br>我が愛しいスイートハート……だが……\!<br>メイスで我を狙っている！
+
+message_638:
+   text: >
+    \>スペース元旦那：\<<br>我が愛しいスイートハート……だが……\!<br>別の男と抱きしめ合ってる！
+
+message_639:
+   text: >
+    \>スペース元旦那：\<<br>我が愛しいスイートハート……だが……\!<br>我の私物を部屋中に散らかしている！
+
+# Beggining of Fight: Mechanic indication
+message_640:
+   text: >
+    \>スペース元旦那：\<<br>我には思い出しか残っておらん……
+
+message_641:
+   text: >
+    \>スペース元旦那：\<<br>しかし我はその思い出にさえ何の感情も持たぬ……
+
+# Correct answer: Happy
+message_642:
+   text: >
+    \>スペース元旦那：\<<br>ああ……\!でもやはりあの日々が恋しい……
+
+# Correct answer: Sad
+message_643:
+   text: >
+    \>スペース元旦那：\<<br>ああ……\!本当に行ってしまったのか……
+
+# Correct answer: Angry
+message_644:
+   text: >
+    \>スペース元旦那：\<<br>ああ！\!何故我にそのような仕打ちをしたんだ！
+
+#message_645:
+#   text: >
+#    \>SPACE EX-HUSBAND: \<I GAVE HER MY HEART AND SHE THREW IT AWAY SO EASILY!
+
+# Wrong answer
+message_646:
+   text: >
+    \>スペース元旦那：\<<br>はぁ……\!我の痛みの深さを真に理解できる者は存在しないだろう……
+
+message_647:
+   text: >
+    \>スペース元旦那：\<<br>我が感じることをやめられたら……\!痛みも感じられなくなるのが道理。
+
+# Changing back to neutral
+message_648:
+   text: >
+    \>スペース元旦那：\<<br>否！ハートを守らなければ。<br>\!冷たい氷と一つに……ならなければ……
+
+# ============Mutant Heart
+# Start
+message_660:
+   text: >
+    \>ミュータントハート:\<\}こ……\!こにちわ……
+# Happy
+message_661:
+   text: >
+    \>ミュータントハート：\<\}\sinv[1]にこにこ……\.おねがい！
+# Sad
+message_662:
+   text: >
+    \>ミュータントハート：\<\}\sinv[1]しょんぼり……\.おねがい……
+# Angry
+message_663:
+   text: >
+    \>ミュータントハート：\<\}\sinv[1]いらいら……\.おねがい！
+
+# Wrong
+message_664:
+   text: >
+    \>ミュータントハート：\<\}\quake[1]んべぇ……\|ちがう！
+
+# =========================================================================================
+# BROKEN FEAR SKILLS
+# =========================================================================================
+
+# ============CALM DOWN (Something)
+
+message_750:
+   text: >
+    落ち着こうとしたが……\|<br>息をするのが苦しい。
+
+# ============FOCUS (Something)
+
+message_751:
+   text: >
+    集中しようとしたが……\|<br>吐き気に打ちのめされた。
+
+# ============PERSIST (Something)
+
+message_752:
+   text: >
+    踏ん張ろうとしたが……\|<br>足がふらついてしまった。
+
+
+# =========================================================================================
+# CHERISH
+# =========================================================================================
+
+message_806:
+   text: >
+    ケルの言葉を思い出した。
+
+message_807:
+   text: >
+    オーブリーの願いを思い出した。
+
+message_808:
+   text: >
+    ヒロとの約束を思い出した。
+
+message_809:
+   text: >
+    バジルの希望を思い出した。
+
+message_810:
+   text: >
+    マリのお願いを思い出した。
+
+message_801:
+   text: >
+    \>ケル：\<友達って……\!こういう時こそ、そばにいてあげるもんだろ？
+
+message_802:
+   text: >
+    \>オーブリー：\<引っ越して、気持ちが落ち着くといいね……\|あと、その……\|幸せになれたら、いいね。
+
+message_803:
+   text: >
+    \>ヒロ：\<前は……<br><br><br>\>ヒロ:\<<br>肝心な時に傍にいられなかったけど……<br>今度こそ……\|一緒にいるべきだ。
+
+message_804:
+   text: >
+    \>バジル：\<いつか……\|また昔みたいになれるかもしれないね。
+
+message_805:
+   text: >
+    \>マリ：\<自分を許してあげられるよね……\|<br>ね……\n[8]？
+
+
+#-------
+
+message_900:
+    text: >
+      \fn<OMORI_GAME>人に苦しみをもたらしながらも……\|<br>あなたは何もしない。
+
+message_901:
+    text: >
+      \fn<OMORI_GAME>だから、あなたは何も得られない。
+
+message_902:
+    text: >
+      \fn<OMORI_GAME>あなたの友達は、一生許さないだろう。
+
+message_903:
+    text: >
+      \fn<OMORI_GAME>あなたがそうしたように、みんながあなたを捨てるだろう……\!それも当然の報いだ。
+
+message_904:
+    text: >
+      \fn<OMORI_GAME>あなたは人に迷惑をかけたくないと自分に言い聞かせているが……
+
+message_905:
+    text: >
+      \fn<OMORI_GAME>本当はただ利己的なだけ。<br>\!人に頼られるのが嫌なだけだ。
+
+message_906:
+    text: >
+      \fn<OMORI_GAME>あなたは他人をどう思ってる？<br>\!いつまで他人に自分の世話をさせるつもりなんだ？
+
+message_907:
+    text: >
+      \fn<OMORI_GAME>あなたは人のことが心配だと言うけど、それもウソ。\! 他人のために動いたことなんてないくせに。
+
+message_908:
+    text: >
+      \fn<OMORI_GAME>あなたは役立たず……\|いや、それ以下だ。\!<br>ただの害虫だ。
+
+message_909:
+    text: >
+      \fn<OMORI_GAME>あなたみたいな人に、生きる資格なんてない。
+
+message_910:
+    text: >
+      \fn<OMORI_GAME>あなたの友達も間違っている。<br>\!あいつらが好きなのはあなたじゃない。
+
+message_911:
+    text: >
+      \fn<OMORI_GAME>自分を守るために、あなたは友達にウソを信じさせたんだ。
+
+message_912:
+    text: >
+      \fn<OMORI_GAME>あなたはただのウソつきだ……\!<br>そして真実が明らかになった時は……
+
+message_913:
+    text: >
+      \fn<OMORI_GAME>あなたが自分を嫌うように、みんなはあなたを嫌うだろう。
+
+message_914:
+    text: >
+      \fn<OMORI_GAME>もしみんなに真実がバレたら、二度と信用を取り戻すことはできないだろう。
+
+message_915:
+    text: >
+      \fn<OMORI_GAME>何をしても無駄なのだろう。
+
+message_916:
+    text: >
+      \fn<OMORI_GAME>あなたにできることは、状況を悪化させることだけだ。\! いっそ死んでしまった方がマシだ。
+
+
+message_917:
+    text: >
+      \fn<OMORI_GAME>いっそ、死んでしまった方がマシだ。
+
+message_918:
+    text: >
+      \fn<OMORI_GAME>あなたはマリを殺した。<br>\!彼女はあなたを愛していた。なのにあなたは彼女を殺した。
+
+message_919:
+    text: >
+      \fn<OMORI_GAME>ヒロは彼女を愛していた。<br>なのにあなたは彼女を殺した。
+
+message_920:
+    text: >
+      \fn<OMORI_GAME>オーブリーは彼女を愛していた。<br>なのにあなたは彼女を殺した。
+
+message_921:
+    text: >
+      \fn<OMORI_GAME>ケルは彼女を愛していた。<br>なのにあなたは彼女を殺した。
+
+message_922:
+    text: >
+      \fn<OMORI_GAME>バジルは彼女を愛していた。<br>なのにあなたは彼女を殺した。
+
+message_923:
+    text: >
+      \fn<OMORI_GAME>あなたは彼女を愛していた。<br>なのに、殺した。
+
+message_924:
+    text: >
+      \fn<OMORI_GAME>死ねばいいのに。
+
+message_925:
+    text: >
+      逃げたい。
+
+
+#BATTLE EMOTION
+
+message_926:
+    text: >
+      スペース元カレは「いらいら」になった！
+
+message_927:
+    text: >
+      スペース元カレは「むかむか」になった！
+
+message_928:
+    text: >
+      スペース元カレは「ぷっつん」した！
+
+message_929:
+    text: >
+      スイートハートは「にこにこ」になった！
+
+message_930:
+    text: >
+      スイートハートは「るんるん」になった！
+
+message_931:
+    text: >
+      スイートハートは「さいこ～」になった！
+
+message_932:
+    text: >
+      ビスケットとパンキジは<br>「しょんぼり」になった……
+
+message_933:
+    text: >
+      ビスケットとパンキジは<br>「どんより」になった……
+
+message_934:
+    text: >
+      ビスケットとパンキジは<br>「がっくり」になった……
+
+message_935:
+    text: >
+      ヨミジャムオは\c[3]ヨミジャム\c[0]をこぼした！
+
+message_936:
+    text: >
+      \>ヨミジャムオ：\<サンプルをどうぞ！\!それじゃ、バイバ～イ！
+
+message_937:
+    text: >
+
+message_938:
+    text: >
+      スペース元カレはもう「にこにこ」にも「しょんぼり」にもなれない！
+
+message_939:
+    text: >
+      スイートハートは「しょんぼり」にも「いらいら」にもなれない！
+
+message_940:
+    text: >
+      アンブレッドの双子はもう<br>「にこにこ」にも「いらいら」にもなれない！
+
+#=======
+#DOROTHI ON TRAIN
+
+message_941:
+    text: >
+      \>???:\<\fn<OMORI_GAME>\n[8]くん……
+
+message_942:
+    text: >
+      \>???:\<\fn<OMORI_GAME>\n[8]くん……\|\n[8]くん……\|\n[8]くん……
+
+message_943:
+    text: >
+      \>???:\<\fn<OMORI_GAME>\n[8]くん……\|ごめん……\|なさい……
+
+message_944:
+      text: >
+        \>???:\<\fn<OMORI_GAME>\n[8]くん……\.ごめん……なさい……
+
+#=======
+#SNALEY
+
+#----------------------------
+# ** IN BATTLE: SNALEY 1
+#----------------------------
+
+message_950:
+   text: >
+    \>ツムリン：\<<br>初陣、というやつですね！\!行きますよ～！
+
+message_951:
+    text: >
+     \>ツムリン：\<<br>バトルって難しいですね……\!<br>もう一回やってみたいです！
+
+message_952:
+    text: >
+     \>ツムリン：\<<br>これ、僕に向いてないかも……
+
+message_953:
+    text: >
+     \>ツムリン：\<<br>すみません、もういいです。\!<br>ご教授ありがとうございます。
+
+#----------------------------
+# ** IN BATTLE: SNALEY 2
+#----------------------------
+
+message_954:
+    text: >
+     \>ツムリン：\<この前のバトルから学習しました！今回はスキルをいくつか勉強してきました！\!侮ると痛い目に遭いますよ～！
+
+message_955:
+    text: >
+     \>ツムリン：\<<br>どう？僕、カッコよかったでしょう？
+
+message_956:
+    text: >
+     \>ツムリン：\<<br>僕も畳みかけができますよ！\!<br>ほら！見てください！
+
+message_957:
+    text: >
+     \>ツムリン：\<<br>どうでした？\!皆さんの強さまであともう少し、って感じですよね！
+
+#----------------------------
+# ** IN BATTLE: SNALEY 3
+#----------------------------
+
+message_958:
+    text: >
+     \>ツムリン：\<<br>僕の成長っぷりを見せたかったんです！<br>\!手加減なしでお願いします！
+
+message_959:
+    text: >
+     \>ツムリン：\<<br>感情をうまく利用できるのは、皆さんだけではありませんよ！
+
+message_960:
+    text: >
+     \>ツムリン：\<<br>やっぱり強いですね！\!でも、ここは僕の超必殺スキルの出番ですね！
+
+message_961:
+   text: >
+    ツムリンは「しょんぼり」している……
+
+message_962:
+   text: >
+    ツムリンは「にこにこ」している！
+
+
+message_1010:
+   text: >
+    \>ヒロ：\<<br>みんな！取引をしよう……
+
+message_1011:
+   text: >
+    \>ヒロ：\<<br>みんなの「ハート」を全回復してあげるけど……
+
+message_1012:
+   text: >
+    \>ヒロ：\<<br>みんなの「ステータス」を上げるけど……
+
+message_1013:
+   text: >
+    \>ヒロ：\<<br>敵全体の「ステータス」を下げるけど……
+
+message_1014:
+   text: >
+    \>ヒロ：\<<br>みんなを「にこにこ」状態にしてあげるけど……
+
+message_1015:
+   text: >
+    \>ヒロ：\<<br>みんなを「しょんぼり」状態にしてあげるけど……
+
+message_1016:
+   text: >
+    \>ヒロ：\<<br>みんなを「いらいら」状態にしてあげるけど……
+
+message_1017:
+   text: >
+    \>ヒロ：\<<br>10萬アサリをあげるけど……
+
+message_1018:
+   text: >
+    \>ヒロ：\<<br>みんなに「ホールピザ」を10個あげるけど……
+
+message_1019:
+   text: >
+    \>ヒロ：\<<br>このターンの攻撃を全部「惚れ惚れする攻撃」にしてあげるけど……
+
+message_1020:
+   text: >
+    \>ヒロ：\<<br>その代わり、敵全体の「ハート」を全回復させよう！
+
+message_1021:
+   text: >
+    \>ヒロ：\<<br>その代わり、みんなの「ハート」と「ジュース」を最大値の半分減らそう！
+
+message_1022:
+   text: >
+    \>ヒロ：\<<br>敵全体の「ステータス」を上げよう！
+
+message_1023:
+   text: >
+    \>ヒロ：\<<br>みんなの「ステータス」を下げよう！
+
+message_1024:
+   text: >
+    \>ヒロ：\<<br>敵全体を「にこにこ」状態にしよう！
+
+message_1025:
+   text: >
+    \>ヒロ：\<<br>敵全体を「しょんぼり」状態にしよう！
+
+message_1026:
+   text: >
+    \>ヒロ：\<<br>敵全体を「いらいら」状態にしよう！
+
+message_1027:
+   text: >
+    \>ヒロ：\<<br>みんなのアサリを全部もらおう！
+
+message_1028:
+   text: >
+    \>ヒロ：\<<br>このターンの敵の攻撃を全部「惚れ惚れする攻撃」にしよう！
+
+message_1029:
+   text: >
+    ヒロの契約書にサインしようか？
+
+message_1030:
+   text: >
+    \>ヒロ：\<<br>よっしゃ！契約成立だね！
+
+message_1031:
+   text: >
+    \>ヒロ：\<<br>とても残念だよ……
+
+message_1032:
+   text: >
+    \>ワニエージェント：\<<br>おい、ボス！その取引、乗ったぜ！
+
+message_1033:
+   text: >
+    ワニエージェントは10萬アサリをもらった！
+
+message_1034:
+   text: >
+    ワニエージェントたちはピザを囲んでパーティを開いた！
+
+message_1035:
+   text: >
+    ワニエージェントはアサリを全部失くした。
+
+message_1036:
+   text: >
+    オモリは200アサリを拾った！
+
+message_1037:
+   text: >
+    オモリは600アサリを拾った！
+
+message_1038:
+   text: >
+    \>ヒロ：\<<br>みんなごめんね……\|取引に乗ってくれればよかったのに！
+
+message_1039:
+   text: >
+    \>ヒロ：\<<br>みんな……\!取引を……\!しよう……\!ぜぇ……\|ぜぇ……\|はぁ……
+
+message_1040:
+   text: >
+    バジルは「びくびく」しすぎて動けない。         
+
+
+message_10000:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelすっげえ！アニキが社長になっちまった！\!さすがだぜ！
+
+message_10001:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aubネクタイを付けてみてよ！きっと似合うよ！
+
+message_10002:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelどう？
+
+message_10003:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \n<ヒロ社長>う～ん……\!悪くはない……\!かな……
+
+message_10004:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aub指パッチンしてみて～！
+
+message_10005:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \n<ヒロ社長>わ、分かった。こう……？
+
+message_10006:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \n<ヒロ社長>おお！すごい！
+
+message_10007:
+      text: \n<ヒロ社長>\sinv[1]\}へへ……\!へへ……へへへ……
+
+message_10008:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubあの……ヒロくん……？\!大丈夫？
+
+message_10009:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 24
+      text: \kelなんかテンション高くね？やたらにこにこしてるけど。
+
+message_100010:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \n<ヒロ社長>にこにこ？\!バカなことを言うなよ、ケル。
+
+message_100011:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 15
+      text: \n<ヒロ社長>\com[2]\{\{\quake[1]社長は…感情的にならない！
+
+message_100012:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kelま、まずいぞ！\!ヒロがおかしくなっちまった！
+
+message_100013:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 51
+      text: \n<ヒロ社長>そうだ、いいこと思いついた！みんな、俺の下で働かないか？\!給料は出さないけど、ちゃ～んと将来有望なみんなを育ててあげるからね！
+
+message_100014:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aub\com[2]ヒロくん！？なんてことを！
+
+message_100015:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kel何言ってんだよアニキ！しっかりしろ！
+
+message_100016:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: \aubオモリくん、なんとかしなきゃ！\!ヒロくんはわたしたちの友達だけど……\!なんか、様子がおかしいよ！
+
+message_100017:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubできれば穏便に……\!会話でなんとかしたいんだけど……
+
+message_100018:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 31
+      text: \kel会話じゃ無理だろ！\!あの様子を見ろ！
+
+message_100019:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 51
+      text: \n<ヒロ社長>\com[2]\{\{\quake[1]はい？有休が欲しい、だと？
+
+message_100020:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 15
+      text: \n<ヒロ社長>\com[2]\{\{\quake[1]いいわけない、ふざけるな！
+
+message_1000124:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 15
+      text: \n<ヒロ社長>\com[2]\{\{\sinv[2]シャーハッハッハ～！
+
+message_100021:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubオモリくん、どうしよう！\!ヒロくんと戦うの？
+
+message_100022:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: \aubヒロくん……\!こんなこと、したくはないけど……
+
+message_100023:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aub今のヒロくんは最低だよ！！
+
+message_100024:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kelわりぃ、アニキ。\!こんなアニキは見たくねえぞ。\!ちょっと大人しくしろよな！
+
+message_100025:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kel行くぞ、オモリ！
+
+message_100026:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubほ、ほんとに？
+
+message_100027:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aub分かった……
+
+message_100028:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 51
+      text: \n<ヒロ社長>\com[2]\quake[1]おい、ちょっと！どこに行くつもりだ？
+
+message_100029:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 15
+      text: \n<ヒロ社長>こんなご時世じゃ……\|オファーが来るだけ運が良かったと思うことだな！
+
+message_100030:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aub……
+
+message_100031:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: \kel……
+
+message_100032:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 8
+      text: \aubヒロくん……\!こんなこと、したくはないけど……
+
+message_100033:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aub今のヒロくんは最低だよ！！
+
+message_100034:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kelわりぃ、アニキ。\!こんなアニキは見たくねえぞ。\!ちょっと大人しくしろよな！
+
+message_100035:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 30
+      text: \kel行くぞ、オモリ！
+
+message_100036:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 48
+      text: \herうぐっ……\!なんかくらくらする……\!ここ、どこ？
+
+message_100037:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubくらいなさい！
+
+message_100038:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \herオーブリー？\!ちょ、ちょっと待て！何がどうなってるんだ！？
+
+message_100039:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 28
+      text: \kelあの……オーブリー……\!もう元に戻ってると思うぞ。
+
+message_100040:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubいや……\!もう一回だけ！
+
+message_100041:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \herちょ、オーブリー！？\!俺が何をしたって言うんだ！？
+
+message_100042:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 5
+      text: \aub最低！
+
+message_100043:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \herな、な、なんで！？
+
+message_100044:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: \aubフン！
+
+message_100045:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aub行こう、オモリくん！
+
+message_100046:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herケル……\|俺、一体何をしたんだ？
+
+message_100047:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 26
+      text: \kel……\!偉くなってよかったな、ヒロ。
+
+message_100048:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herえっ？ええっ！？
+
+message_100049:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \herみんな、待って……！
+
+message_100050:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \herごめんって！
+
+message_100051:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 47
+      text: \herふぅ……このボスラッシュ、結構大変だね……
+
+message_100052:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herまあでも、バトルと言っても、安全は保障されてるからいいよね。
+
+message_100053:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 2
+      text: \aubあっ、そうだ！
+
+message_100054:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aub安全が保障されてるってことは……バジルくんがバトルに慣れるためにうってつけの場所じゃん！
+
+message_100055:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \herおっ、確かにそうかも！\!バジルはどう思う？
+
+message_100056:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basえっ！？ぼ、ぼく！？
+
+message_100057:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basえっと……\!正直、ちょっと緊張するけど……
+
+message_100058:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basみんなと一緒なら、多分大丈夫だと思う！
+
+message_100059:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kelいや、ちょっと待てよ……\!全員で行ったら、簡単すぎるだろ！
+
+message_100060:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 40
+      text: \her確かに……\!だったら、バジルと一緒に行くのは一人だけにしようかな。
+
+message_100061:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 37
+      text: \herオモリ、やってくれる？
+
+message_100062:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \bas分かった！それなら大丈夫かも！
+
+message_100063:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelあっ、そうだ！いいこと思いついた！
+
+message_100064:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 1
+      text: \aubボスになんかさせたの？
+
+message_100065:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kel\sinv[1]べっつに～？\sinv[0]秘密だ！
+
+message_100066:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \mar\sinv[1]ふ～ん？\sinv[0]<br>秘密ってなんだろう？教えてケルくん～！
+
+message_100067:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 16
+      text: \kelいいぜ！でもオーブリーには言うなよ！
+
+message_100068:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aubなんでよ！
+
+message_100069:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \mar\sinv[1]うんうん……\|ふむふむ……\|なるほど～！
+
+message_100070:
+      faceset: MainCharacter_Mari
+      faceindex: 7
+      text: \marそれ、面白そう！\!おかげで私もいいこと思いついちゃった！
+
+message_100071:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubええ～？ずるいよ、ケルくん！\!なんで秘密にするの？
+
+message_100072:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \herそうだよ！俺も知りたい！
+
+message_100073:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kel気にすんなって！こうした方が楽しいからさ！
+
+message_100074:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 9
+      text: \aubケルくんにとってはね……
+
+message_100075:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marそうそう！うまく行ったら、モニターを使ってみんなで観れるしね！
+
+message_100076:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \mar準備はできたかな、オモリ！バジル！
+
+message_100077:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marまあでも、二人なら大丈夫だろうけど。
+
+message_100078:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \marよしっ、敵をボコボコにしちゃえ！
+
+message_100079:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basみんなありがとう！\!二人で頑張るね！
+
+message_100080:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basやってみよう、オモリくん！
+
+message_100081:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basあっ、そうだね……\!もうちょっと待った方がいいかもね……
+
+message_100082:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \her郵便受けから\c[3]おやつ\c[0]と\c[5]おもちゃ\c[0]を買うのを忘れずにね。\!<br>しっかり準備して行こう！
+
+message_100083:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kel頑張れバジル！\!お前の\c[1]スキル\c[0]を見せつけてやれ！
+
+message_100084:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubケルくんとマリちゃん、一体何をしようとしてるんだろう……\!秘密だなんて、モヤモヤするじゃん！
+
+message_100085:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marどうしたの、オモリ、変な顔しちゃって？\!楽しんで来たらいいんじゃない？
+
+message_100086:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basあっ……ごめんね、オモリくん。\!外でのバトルは、ぼくにはまだ早いと思う……\!別の用事があるのかな？
+
+message_100087:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basそっか、気にしないで！また今度やろう！
+
+message_100088:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basあっ、オモリくん！一緒にボスラッシュをやってくれるの？
+
+message_100089:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basやった！一緒に頑張ろう！
+
+message_100090:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basケルくんとマリちゃんが何をしようとしてるのか気になるけど、きっと大丈夫だよね！
+
+message_100091:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basそっか、気にしないで！\!また今度やろう！
+
+message_100092:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basあっ、オモリくん！また一緒にボスラッシュをやってくれるの？
+
+message_100093:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basやった！一緒に頑張ろう！
+
+message_100094:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basごめんね、弱くて……でも少しずつ強くなってると思うんだ！
+
+message_100095:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basそういえば、ケルくんとマリちゃんの秘密ってなんだろう……\!気になるなぁ。
+
+message_100096:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basあっ、オモリくん！また一緒にボスラッシュをやってくれるの？
+
+message_100097:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basごめんね、弱くて……でも少しずつ強くなってると思うんだ！
+
+message_100098:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basケルくんとオーブリーちゃんとヒロくんのシミュレーションが出て来てびっくりしたよ。\!強かったなぁ。でも、二人でならきっと倒せるよ！
+
+message_100099:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kel\com[544]おお！お前らすげえな！
+
+message_1000100:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 10
+      text: \aub\com[543]ケルくん邪魔！映らないじゃん！
+
+message_1000101:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aub\com[543]二人ともすごかったね！頑張って！
+
+message_1000102:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 27
+      text: \kel\com[544]同じこと言ってる……
+
+message_1000103:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 38
+      text: \her\com[541]よく頑張ったね！どんどん行っちゃおう！
+
+message_1000104:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \mar\com[542]多分聞こえないだろうけど、みんなで応援してるからね！
+
+message_1000105:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kel\com[544]よっしゃあ！ハンフリーのやつをやっつけたな！
+
+message_1000106:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aub\com[543]あれ？これで終わりじゃないの？
+
+message_1000107:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 11
+      text: \aub\com[543]というか、マリちゃんと一体何をしたの？\! \com[543]何も変わってなかったけど。
+
+message_1000108:
+      faceset: MainCharacter_Mari
+      faceindex: 7
+      text: \mar\com[542]それは……もうすぐ分かるよ！
+
+message_1000109:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 6
+      text: \aub\com[543]えっ？あれって、わたし！？
+
+message_1000110:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \her\com[541]いやいや、俺たちはここにいるよ？
+
+message_1000112:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kel\com[544]へっへっへっ！驚いただろ！
+
+message_1000113:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 19
+      text: \kel\com[544]二人とも、心配すんな！\! \com[544]俺たちより弱いはずだから、全力でやれば勝てるぜ！
+
+message_1000114:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \mar\com[542]二人とも頑張ってね！キミたちならきっと倒せるよ！
+
+message_1000115:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \her\com[541]あれ？マリ、あそこで何をしてるんだ？
+
+message_1000116:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 46
+      text: \her\com[541]じっとしてて……\! \com[541]今迎えに——
+
+message_1000117:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 39
+      text: \her\com[541]ん？いや、マリならここにいるか！
+
+message_1000118:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \mar\com[542]もう、ヒロくんったらお茶目！
+
+message_1000119:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \mar\com[542]私、全然バトルに向いてないけど……\! \com[542]もし戦ったらどうなるのか、どうしても気になっちゃって……うふふ！
+
+message_1000120:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 3
+      text: \aub\com[543]わたしもマリちゃんのバトル見たい！楽しみ！
+
+message_1000121:
+      faceset: MainCharacter_Mari
+      faceindex: 6
+      text: \mar\com[542]大丈夫だよ、オモリ、バジルくん！あれは本当の私じゃないからね！\! \com[542]ここで観てるよ！
+
+message_1000123:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \mar\com[542]それじゃ、また後でね！
+
+message_1000128:
+      text: \n<ボス>なんだなんだ、バジルもボスラッシュに挑戦すんのか？\!ちゃんと面倒を見てやれよ、オモリ！
+
+message_1000129:
+      text: \n<ボス>テレポーターの設定をしてやるからな。
+
+message_1000131:
+      text: \n<ボス>ケルのサプライズ、どうだった？\!あいつにしてはいい考えだったと思うぜ。
+
+message_1000132:
+      text: \n<ボス>また挑戦したいなら、あのバトルに直接転送してやるぞ！\!今からやるか？
+
+message_1000130:
+      text: ヒロとケルの2人用のシンプルなテーブル。
+
+message_1000133:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marケルくんって発想がいいんだよね～！\!こういう楽しそうなことすぐ思いつくし……\|すぐ楽しそうなことでトラブル起こしちゃうし……
+
+message_1000134:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 4
+      text: \aubみんなのシミュレーション、すごくリアルだったね。\!でも……わたしって本当にそんな風に見えるの？
+
+message_1000135:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 18
+      text: \kelおいおい、今のバトル\sinv[1]すっげ～\sinv[0]かっこよかったぜ！！\!どっちを応援すればいいのか分からなくなっちまったよ！へへっ……
+
+message_1000136:
+      faceset: MainCharacters_DreamWorld
+      faceindex: 41
+      text: \her気のせいかもしれないけど、俺のシミュレーション、なんかおかしくなかった……？
+
+message_1000137:
+      faceset: MainCharacter_Mari
+      faceindex: 2
+      text: \marオモリ？どうしたの、変な顔しちゃって？\!なんでも言ってくれてもいいんだよ？
+
+message_1000138:
+      faceset: MainCharacter_Mari
+      faceindex: 0
+      text: \marオモリが気持ちを伝えるのが苦手なのは知ってるけど……\|それでも、オモリが何かを抱えたり悩んだりしてる時、私はちゃんと気づいてるよ？
+
+message_1000139:
+      faceset: MainCharacter_Mari
+      faceindex: 3
+      text: \marキミのお姉ちゃんとして、ずっとキミを支えてあげるからね！\!私がここにいる限り、ずっとオモリの面倒を見てあげるよ！\|つまり、ず～っと、永遠に、ね！
+
+message_1000140:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basオモリくん！モニター越しでみんなのバトルを観てると、いつかぼくも一緒に戦えたらいいのになぁって思っちゃうよ。
+
+message_1000141:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basでも……今はまだ早い、かな。
+
+message_1000142:
+      faceset: MainCharacter_Basil
+      faceindex: 2
+      text: \basでも、なんか変な感じがするんだ。まるでこんなこと、前にもやったような……
+
+message_1000143:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basあれ？何これ？\!ぼくのじゃない……
+
+message_1000144:
+      faceset: MainCharacter_Basil
+      faceindex: 1
+      text: \basこれ、多分オモリくんのものだと思う。\!返してあげるね！
+
+message_1000145:
+      text: バジルから\c[13]\v[1284]\c[0]を貰った。
+
+message_1000146:
+      faceset: MainCharacter_Basil
+      faceindex: 6
+      text: \basあ、あれ？オモリくん、どうしたの？表情がガラッと変わったけど。
+
+message_1000147:
+      faceset: MainCharacter_Basil
+      faceindex: 0
+      text: \basなんでそれを持ってたのか、ぼくにも分からないよ。\!盗んだわけじゃないんだよ！本当だよ！
