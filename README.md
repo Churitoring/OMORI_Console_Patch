@@ -1,4 +1,4 @@
-# OMORI_Console_Patch
+# OMORI Console Patch
 
 ## English Tutorial
 
