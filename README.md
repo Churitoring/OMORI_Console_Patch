@@ -14,7 +14,7 @@ Spoiler Warning:
 
 Known bugs (but chances are high they will not be fixed):
 
-During the Basil boss rush, the interface does not turn black when the last enemy transforms into a hanging corpse.
+During the Basil boss rush, the interface does not turn black when the last enemy transforms into a hanging body.
 After the Basil boss rush, there's a brief overlap of Aubrey and Sprites.
 Even if Basil fulfills the conditions to gain a skill, he can't acquire skills.(Therefore, I've changed Basil to have all skills.)
 Basil's Follow Up dialogue and selection sprites do not appear.Selection is possible and functions correctly; it's just not visible.
