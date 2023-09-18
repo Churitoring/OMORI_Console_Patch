@@ -15,10 +15,16 @@ Spoiler Warning:
 Known bugs (but chances are high they will not be fixed):
 
 During the Basil boss rush, the interface does not turn black when the last enemy transforms into a hanging body.
+
 After the Basil boss rush, there's a brief overlap of Aubrey and Sprites.
+
 Even if Basil fulfills the conditions to gain a skill, he can't acquire skills.(Therefore, I've changed Basil to have all skills.)
+
 Basil's Follow Up dialogue and selection sprites do not appear.Selection is possible and functions correctly; it's just not visible.
+
 In the Boss Man Hero battle, the "Yes, No" choice is obscured by the battle sprite.
+
+SIR MAXIMUS' special move animation does not appear in Boss Rush.
 
 
 ## Korean Tutorial(한국어 튜토리얼)
@@ -40,7 +46,7 @@ In the Boss Man Hero battle, the "Yes, No" choice is obscured by the battle spri
 알려진 버그(지만 안 고칠 가능성 높습니다.)
 
 
-바질 보스러쉬때 마지막 마리가 목 매단 시체로 변할때처럼 바뀔때 아래 인터페이스가 검은색으로 변하지 않음
+바질 보스러쉬에서 마지막 마리가 목 매단 시체로 변할때 아래 인터페이스가 검은색으로 변하지 않음
 
 바질 보스러쉬가 끝나고서 오브리와 스프라이트가 잠깐 겹쳐있음
 
@@ -49,3 +55,5 @@ In the Boss Man Hero battle, the "Yes, No" choice is obscured by the battle spri
 바질의 Follow Up의 멘트와 선택 스프라이트가 나오지 않음. 선택은 가능하고, 정상 작동 함. 단지 안보일뿐...
 
 보스맨 히로 전투에서 계약의 '예, 아니오' 선택지가 배틀 스프라이트에 가려 보이지 않음
+
+보스러쉬에서 기사 막시무스의 필살기의 애니메이션이 나오지 않음
